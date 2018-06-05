@@ -1968,5 +1968,625 @@
 		"seats_won": "0",
 		"total_valid_votes_polled_by_party": "106817",
 		"percentage_of_valid_votes_polled_by_party": "10.193308032250799"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Andaman & Nicobar Islands",
+		"total_valid_votes_polled_in_states": "188764",
+		"total_electors_in_the_states": "269360",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "436",
+		"percentage_of_valid_votes_polled_by_party": "0.230976245470535"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Andhra Pradesh",
+		"total_valid_votes_polled_in_states": "48026634",
+		"total_electors_in_the_states": "64934138",
+		"seats_won": "10",
+		"total_valid_votes_polled_by_party": "15697868",
+		"percentage_of_valid_votes_polled_by_party": "32.685755158273203"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Arunachal Pradesh",
+		"total_valid_votes_polled_in_states": "590635",
+		"total_electors_in_the_states": "759344",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "980",
+		"percentage_of_valid_votes_polled_by_party": "0.16592311664564399"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Assam",
+		"total_valid_votes_polled_in_states": "14938826",
+		"total_electors_in_the_states": "18837713",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "95013",
+		"percentage_of_valid_votes_polled_by_party": "0.63601383401881795"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Bihar",
+		"total_valid_votes_polled_in_states": "35304368",
+		"total_electors_in_the_states": "63800160",
+		"seats_won": "3",
+		"total_valid_votes_polled_by_party": "2460537",
+		"percentage_of_valid_votes_polled_by_party": "6.9694973721098803"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Chandigarh",
+		"total_valid_votes_polled_in_states": "450349",
+		"total_electors_in_the_states": "615214",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "3724",
+		"percentage_of_valid_votes_polled_by_party": "0.82691423762459804"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Chhattisgarh",
+		"total_valid_votes_polled_in_states": "12030690",
+		"total_electors_in_the_states": "17664520",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "286870",
+		"percentage_of_valid_votes_polled_by_party": "2.3844850129128101"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Dadra & Nagar Haveli",
+		"total_valid_votes_polled_in_states": "162324",
+		"total_electors_in_the_states": "196597",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "348",
+		"percentage_of_valid_votes_polled_by_party": "0.21438604272935599"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Goa",
+		"total_valid_votes_polled_in_states": "806897",
+		"total_electors_in_the_states": "1060777",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "5195",
+		"percentage_of_valid_votes_polled_by_party": "0.64382442864454803"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Gujarat",
+		"total_valid_votes_polled_in_states": "25369118",
+		"total_electors_in_the_states": "40603104",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "137196",
+		"percentage_of_valid_votes_polled_by_party": "0.54079925049030098"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Haryana",
+		"total_valid_votes_polled_in_states": "11460931",
+		"total_electors_in_the_states": "16097233",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "65305",
+		"percentage_of_valid_votes_polled_by_party": "0.569805367469711"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Himachal Pradesh",
+		"total_valid_votes_polled_in_states": "3069345",
+		"total_electors_in_the_states": "4810071",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "2535",
+		"percentage_of_valid_votes_polled_by_party": "8.2590911090151195E-2"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Jammu & Kashmir",
+		"total_valid_votes_polled_in_states": "3535313",
+		"total_electors_in_the_states": "7183129",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "101016",
+		"percentage_of_valid_votes_polled_by_party": "2.85734247575816"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Jharkhand",
+		"total_valid_votes_polled_in_states": "12792013",
+		"total_electors_in_the_states": "20349796",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "1087761",
+		"percentage_of_valid_votes_polled_by_party": "8.5034388254608597"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Karnataka",
+		"total_valid_votes_polled_in_states": "30780980",
+		"total_electors_in_the_states": "46209813",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "215963",
+		"percentage_of_valid_votes_polled_by_party": "0.70161183951908002"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Kerala",
+		"total_valid_votes_polled_in_states": "17765332",
+		"total_electors_in_the_states": "24326650",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "731054",
+		"percentage_of_valid_votes_polled_by_party": "4.11505960034971"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Madhya Pradesh",
+		"total_valid_votes_polled_in_states": "29247970",
+		"total_electors_in_the_states": "48121301",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "480654",
+		"percentage_of_valid_votes_polled_by_party": "1.64337559153678"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Maharashtra",
+		"total_valid_votes_polled_in_states": "48284248",
+		"total_electors_in_the_states": "80798823",
+		"seats_won": "1",
+		"total_valid_votes_polled_by_party": "3294944",
+		"percentage_of_valid_votes_polled_by_party": "6.8240557458821796"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Manipur",
+		"total_valid_votes_polled_in_states": "1405132",
+		"total_electors_in_the_states": "1774369",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "3408",
+		"percentage_of_valid_votes_polled_by_party": "0.24253949095173999"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Nagaland",
+		"total_valid_votes_polled_in_states": "1036214",
+		"total_electors_in_the_states": "1182972",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "9695",
+		"percentage_of_valid_votes_polled_by_party": "0.935617546182545"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "NCT OF Delhi",
+		"total_valid_votes_polled_in_states": "8232076",
+		"total_electors_in_the_states": "12711164",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "34419",
+		"percentage_of_valid_votes_polled_by_party": "0.41810838481083001"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Odisha",
+		"total_valid_votes_polled_in_states": "21196117",
+		"total_electors_in_the_states": "29196045",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "443737",
+		"percentage_of_valid_votes_polled_by_party": "2.0934824996483998"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Puducherry",
+		"total_valid_votes_polled_in_states": "717749",
+		"total_electors_in_the_states": "901357",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "804",
+		"percentage_of_valid_votes_polled_by_party": "0.11201687497997199"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Punjab",
+		"total_valid_votes_polled_in_states": "13786378",
+		"total_electors_in_the_states": "19608161",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "128832",
+		"percentage_of_valid_votes_polled_by_party": "0.93448765150643598"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Rajasthan",
+		"total_valid_votes_polled_in_states": "26782731",
+		"total_electors_in_the_states": "42994657",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "387630",
+		"percentage_of_valid_votes_polled_by_party": "1.44731319595451"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Sikkim",
+		"total_valid_votes_polled_in_states": "304635",
+		"total_electors_in_the_states": "370770",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "121956",
+		"percentage_of_valid_votes_polled_by_party": "40.033482692402401"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Tamil Nadu",
+		"total_valid_votes_polled_in_states": "40025367",
+		"total_electors_in_the_states": "55114867",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "2723146",
+		"percentage_of_valid_votes_polled_by_party": "6.8035503584514299"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Tripura",
+		"total_valid_votes_polled_in_states": "2000046",
+		"total_electors_in_the_states": "2388822",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "59328",
+		"percentage_of_valid_votes_polled_by_party": "2.9663317743691899"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Uttar Pradesh",
+		"total_valid_votes_polled_in_states": "80500789",
+		"total_electors_in_the_states": "138810557",
+		"seats_won": "2",
+		"total_valid_votes_polled_by_party": "2944443",
+		"percentage_of_valid_votes_polled_by_party": "3.65765731811647"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "Uttarakhand",
+		"total_valid_votes_polled_in_states": "4343847",
+		"total_electors_in_the_states": "7127057",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "31833",
+		"percentage_of_valid_votes_polled_by_party": "0.73282967839336899"
+	},
+	{
+		"party_name": "Unrecognised",
+		"party_type": "U",
+		"state_name": "West Bengal",
+		"total_valid_votes_polled_in_states": "51060534",
+		"total_electors_in_the_states": "62833113",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "827276",
+		"percentage_of_valid_votes_polled_by_party": "1.6201867375691801"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Andaman & Nicobar Islands",
+		"total_valid_votes_polled_in_states": "188764",
+		"total_electors_in_the_states": "269360",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "3511",
+		"percentage_of_valid_votes_polled_by_party": "1.85999449047488"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Andhra Pradesh",
+		"total_valid_votes_polled_in_states": "48026634",
+		"total_electors_in_the_states": "64934138",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "949666",
+		"percentage_of_valid_votes_polled_by_party": "1.97737363813587"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Arunachal Pradesh",
+		"total_valid_votes_polled_in_states": "590635",
+		"total_electors_in_the_states": "759344",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "2362",
+		"percentage_of_valid_votes_polled_by_party": "0.39990857297654198"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Assam",
+		"total_valid_votes_polled_in_states": "14938826",
+		"total_electors_in_the_states": "18837713",
+		"seats_won": "1",
+		"total_valid_votes_polled_by_party": "1436900",
+		"percentage_of_valid_votes_polled_by_party": "9.6185603875431696"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Bihar",
+		"total_valid_votes_polled_in_states": "35304368",
+		"total_electors_in_the_states": "63800160",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "1533264",
+		"percentage_of_valid_votes_polled_by_party": "4.3429866808549002"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Chandigarh",
+		"total_valid_votes_polled_in_states": "450349",
+		"total_electors_in_the_states": "615214",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "8496",
+		"percentage_of_valid_votes_polled_by_party": "1.8865368858374301"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Chhattisgarh",
+		"total_valid_votes_polled_in_states": "12030690",
+		"total_electors_in_the_states": "17664520",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "516430",
+		"percentage_of_valid_votes_polled_by_party": "4.2926049960559203"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Dadra & Nagar Haveli",
+		"total_valid_votes_polled_in_states": "162324",
+		"total_electors_in_the_states": "196597",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "2786",
+		"percentage_of_valid_votes_polled_by_party": "1.7163204455287"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Goa",
+		"total_valid_votes_polled_in_states": "806897",
+		"total_electors_in_the_states": "1060777",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "17152",
+		"percentage_of_valid_votes_polled_by_party": "2.1256740327451999"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Gujarat",
+		"total_valid_votes_polled_in_states": "25369118",
+		"total_electors_in_the_states": "40603104",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "542006",
+		"percentage_of_valid_votes_polled_by_party": "2.1364794787110899"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Haryana",
+		"total_valid_votes_polled_in_states": "11460931",
+		"total_electors_in_the_states": "16097233",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "191278",
+		"percentage_of_valid_votes_polled_by_party": "1.6689569110921301"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Himachal Pradesh",
+		"total_valid_votes_polled_in_states": "3069345",
+		"total_electors_in_the_states": "4810071",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "28507",
+		"percentage_of_valid_votes_polled_by_party": "0.92876493193173104"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Jammu & Kashmir",
+		"total_valid_votes_polled_in_states": "3535313",
+		"total_electors_in_the_states": "7183129",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "223498",
+		"percentage_of_valid_votes_polled_by_party": "6.3218730562187799"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Jharkhand",
+		"total_valid_votes_polled_in_states": "12792013",
+		"total_electors_in_the_states": "20349796",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "426224",
+		"percentage_of_valid_votes_polled_by_party": "3.3319540872886901"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Karnataka",
+		"total_valid_votes_polled_in_states": "30780980",
+		"total_electors_in_the_states": "46209813",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "483513",
+		"percentage_of_valid_votes_polled_by_party": "1.57081743336307"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Kerala",
+		"total_valid_votes_polled_in_states": "17765332",
+		"total_electors_in_the_states": "24326650",
+		"seats_won": "2",
+		"total_valid_votes_polled_by_party": "2043666",
+		"percentage_of_valid_votes_polled_by_party": "11.503674685055101"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Madhya Pradesh",
+		"total_valid_votes_polled_in_states": "29247970",
+		"total_electors_in_the_states": "48121301",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "548867",
+		"percentage_of_valid_votes_polled_by_party": "1.8765986152201299"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Maharashtra",
+		"total_valid_votes_polled_in_states": "48284248",
+		"total_electors_in_the_states": "80798823",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "1577114",
+		"percentage_of_valid_votes_polled_by_party": "3.2663116136757502"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Manipur",
+		"total_valid_votes_polled_in_states": "1405132",
+		"total_electors_in_the_states": "1774369",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "43013",
+		"percentage_of_valid_votes_polled_by_party": "3.06113589328262"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Meghalaya",
+		"total_valid_votes_polled_in_states": "1047913",
+		"total_electors_in_the_states": "1567241",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "180658",
+		"percentage_of_valid_votes_polled_by_party": "17.2397899443942"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Mizoram",
+		"total_valid_votes_polled_in_states": "426706",
+		"total_electors_in_the_states": "702170",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "204331",
+		"percentage_of_valid_votes_polled_by_party": "47.885663665380797"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "NCT OF Delhi",
+		"total_valid_votes_polled_in_states": "8232076",
+		"total_electors_in_the_states": "12711164",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "261664",
+		"percentage_of_valid_votes_polled_by_party": "3.17859067384703"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Odisha",
+		"total_valid_votes_polled_in_states": "21196117",
+		"total_electors_in_the_states": "29196045",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "333196",
+		"percentage_of_valid_votes_polled_by_party": "1.5719671673825899"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Puducherry",
+		"total_valid_votes_polled_in_states": "717749",
+		"total_electors_in_the_states": "901357",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "26771",
+		"percentage_of_valid_votes_polled_by_party": "3.7298554229960601"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Punjab",
+		"total_valid_votes_polled_in_states": "13786378",
+		"total_electors_in_the_states": "19608161",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "498039",
+		"percentage_of_valid_votes_polled_by_party": "3.6125442084933401"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Rajasthan",
+		"total_valid_votes_polled_in_states": "26782731",
+		"total_electors_in_the_states": "42994657",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "1806700",
+		"percentage_of_valid_votes_polled_by_party": "6.7457646496169499"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Tamil Nadu",
+		"total_valid_votes_polled_in_states": "40025367",
+		"total_electors_in_the_states": "55114867",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "866317",
+		"percentage_of_valid_votes_polled_by_party": "2.1644198790232201"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Tripura",
+		"total_valid_votes_polled_in_states": "2000046",
+		"total_electors_in_the_states": "2388822",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "17764",
+		"percentage_of_valid_votes_polled_by_party": "0.88817957186984697"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Uttar Pradesh",
+		"total_valid_votes_polled_in_states": "80500789",
+		"total_electors_in_the_states": "138810557",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "1414869",
+		"percentage_of_valid_votes_polled_by_party": "1.7575840157293401"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "Uttarakhand",
+		"total_valid_votes_polled_in_states": "4343847",
+		"total_electors_in_the_states": "7127057",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "76158",
+		"percentage_of_valid_votes_polled_by_party": "1.75323854638527"
+	},
+	{
+		"party_name": "Independent",
+		"party_type": "Z",
+		"state_name": "West Bengal",
+		"total_valid_votes_polled_in_states": "51060534",
+		"total_electors_in_the_states": "62833113",
+		"seats_won": "0",
+		"total_valid_votes_polled_by_party": "473000",
+		"percentage_of_valid_votes_polled_by_party": "0.92635145570549604"
 	}
 ]
