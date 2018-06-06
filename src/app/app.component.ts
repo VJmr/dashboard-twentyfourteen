@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {ResultsService} from './shared/services/results.service';
 
 @Component({
   selector: 'dtf-root',
@@ -6,5 +7,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'dtf';
+  constructor(private resultsService: ResultsService){
+
+    this.resultsService.getResults().subscribe(d=>console.log(d));
+  }
 }
