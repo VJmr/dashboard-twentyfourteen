@@ -1,2592 +1,2592 @@
 [
 	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Andaman & Nicobar Islands",
-		"total_valid_votes_polled_in_states": "188764",
-		"total_electors_in_the_states": "269360",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1139",
-		"percentage_of_valid_votes_polled_by_party": "0.60"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "397567",
-		"percentage_of_valid_votes_polled_by_party": "0.83"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "765758",
-		"percentage_of_valid_votes_polled_by_party": "2.17"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Chandigarh",
-		"total_valid_votes_polled_in_states": "450349",
-		"total_electors_in_the_states": "615214",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "15934",
-		"percentage_of_valid_votes_polled_by_party": "3.54"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Chhattisgarh",
-		"total_valid_votes_polled_in_states": "12030690",
-		"total_electors_in_the_states": "17664520",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "293910",
-		"percentage_of_valid_votes_polled_by_party": "2.44"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Dadra & Nagar Haveli",
-		"total_valid_votes_polled_in_states": "162324",
-		"total_electors_in_the_states": "196597",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "982",
-		"percentage_of_valid_votes_polled_by_party": "0.60"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Daman & Diu",
-		"total_valid_votes_polled_in_states": "85917",
-		"total_electors_in_the_states": "111827",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "490",
-		"percentage_of_valid_votes_polled_by_party": "0.57"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Gujarat",
-		"total_valid_votes_polled_in_states": "25369118",
-		"total_electors_in_the_states": "40603104",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "243949",
-		"percentage_of_valid_votes_polled_by_party": "0.96"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "527013",
-		"percentage_of_valid_votes_polled_by_party": "4.60"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Himachal Pradesh",
-		"total_valid_votes_polled_in_states": "3069345",
-		"total_electors_in_the_states": "4810071",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "22928",
-		"percentage_of_valid_votes_polled_by_party": "0.75"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Jammu & Kashmir",
-		"total_valid_votes_polled_in_states": "3535313",
-		"total_electors_in_the_states": "7183129",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "54091",
-		"percentage_of_valid_votes_polled_by_party": "1.53"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "140141",
-		"percentage_of_valid_votes_polled_by_party": "1.10"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "265006",
-		"percentage_of_valid_votes_polled_by_party": "0.86"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "71316",
-		"percentage_of_valid_votes_polled_by_party": "0.40"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Madhya Pradesh",
-		"total_valid_votes_polled_in_states": "29247970",
-		"total_electors_in_the_states": "48121301",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1124772",
-		"percentage_of_valid_votes_polled_by_party": "3.85"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1271680",
-		"percentage_of_valid_votes_polled_by_party": "2.63"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "NCT OF Delhi",
-		"total_valid_votes_polled_in_states": "8232076",
-		"total_electors_in_the_states": "12711164",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "101609",
-		"percentage_of_valid_votes_polled_by_party": "1.23"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Odisha",
-		"total_valid_votes_polled_in_states": "21196117",
-		"total_electors_in_the_states": "29196045",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "218403",
-		"percentage_of_valid_votes_polled_by_party": "1.03"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "2060",
-		"percentage_of_valid_votes_polled_by_party": "0.29"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "263227",
-		"percentage_of_valid_votes_polled_by_party": "1.91"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Rajasthan",
-		"total_valid_votes_polled_in_states": "26782731",
-		"total_electors_in_the_states": "42994657",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "633786",
-		"percentage_of_valid_votes_polled_by_party": "2.37"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "155951",
-		"percentage_of_valid_votes_polled_by_party": "0.39"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "15914194",
-		"percentage_of_valid_votes_polled_by_party": "19.77"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "Uttarakhand",
-		"total_valid_votes_polled_in_states": "4343847",
-		"total_electors_in_the_states": "7127057",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "207846",
-		"percentage_of_valid_votes_polled_by_party": "4.78"
-	},
-	{
-		"party_name": "Bahujan Samaj Party",
-		"party_type": "N",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "252594",
-		"percentage_of_valid_votes_polled_by_party": "0.49"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Andaman & Nicobar Islands",
-		"total_valid_votes_polled_in_states": "188764",
-		"total_electors_in_the_states": "269360",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "90969",
-		"percentage_of_valid_votes_polled_by_party": "48.191922188552901"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "3",
-		"total_valid_votes_polled_by_party": "4091908",
-		"percentage_of_valid_votes_polled_by_party": "8.5200807535252192"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Arunachal Pradesh",
-		"total_valid_votes_polled_in_states": "590635",
-		"total_electors_in_the_states": "759344",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "275344",
-		"percentage_of_valid_votes_polled_by_party": "46.618300642528801"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "7",
-		"total_valid_votes_polled_by_party": "5507152",
-		"percentage_of_valid_votes_polled_by_party": "36.864690705949698"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "22",
-		"total_valid_votes_polled_by_party": "10543025",
-		"percentage_of_valid_votes_polled_by_party": "29.8632310880059"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Chandigarh",
-		"total_valid_votes_polled_in_states": "450349",
-		"total_electors_in_the_states": "615214",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "191362",
-		"percentage_of_valid_votes_polled_by_party": "42.491934033382996"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Chhattisgarh",
-		"total_valid_votes_polled_in_states": "12030690",
-		"total_electors_in_the_states": "17664520",
-		"seats_won": "10",
-		"total_valid_votes_polled_by_party": "5973904",
-		"percentage_of_valid_votes_polled_by_party": "49.655539291595097"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Dadra & Nagar Haveli",
-		"total_valid_votes_polled_in_states": "162324",
-		"total_electors_in_the_states": "196597",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "80790",
-		"percentage_of_valid_votes_polled_by_party": "49.7708287129445"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Daman & Diu",
-		"total_valid_votes_polled_in_states": "85917",
-		"total_electors_in_the_states": "111827",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "46960",
-		"percentage_of_valid_votes_polled_by_party": "54.657401911146799"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Goa",
-		"total_valid_votes_polled_in_states": "806897",
-		"total_electors_in_the_states": "1060777",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "436679",
-		"percentage_of_valid_votes_polled_by_party": "54.1183075411112"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Gujarat",
-		"total_valid_votes_polled_in_states": "25369118",
-		"total_electors_in_the_states": "40603104",
-		"seats_won": "26",
-		"total_valid_votes_polled_by_party": "15249243",
-		"percentage_of_valid_votes_polled_by_party": "60.109472469638099"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "7",
-		"total_valid_votes_polled_by_party": "3993527",
-		"percentage_of_valid_votes_polled_by_party": "34.8446997892231"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Himachal Pradesh",
-		"total_valid_votes_polled_in_states": "3069345",
-		"total_electors_in_the_states": "4810071",
-		"seats_won": "4",
-		"total_valid_votes_polled_by_party": "1652995",
-		"percentage_of_valid_votes_polled_by_party": "53.8549755729643"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Jammu & Kashmir",
-		"total_valid_votes_polled_in_states": "3535313",
-		"total_electors_in_the_states": "7183129",
-		"seats_won": "3",
-		"total_valid_votes_polled_by_party": "1154220",
-		"percentage_of_valid_votes_polled_by_party": "32.648311479068497"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "12",
-		"total_valid_votes_polled_by_party": "5207439",
-		"percentage_of_valid_votes_polled_by_party": "40.708518667077698"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "17",
-		"total_valid_votes_polled_by_party": "13350285",
-		"percentage_of_valid_votes_polled_by_party": "43.371864703462997"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1856796",
-		"percentage_of_valid_votes_polled_by_party": "10.4517945400626"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Lakshadweep",
-		"total_valid_votes_polled_in_states": "43116",
-		"total_electors_in_the_states": "49922",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "187",
-		"percentage_of_valid_votes_polled_by_party": "0.43371370256981201"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Madhya Pradesh",
-		"total_valid_votes_polled_in_states": "29247970",
-		"total_electors_in_the_states": "48121301",
-		"seats_won": "27",
-		"total_valid_votes_polled_by_party": "16015695",
-		"percentage_of_valid_votes_polled_by_party": "54.758313141048802"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "23",
-		"total_valid_votes_polled_by_party": "13308961",
-		"percentage_of_valid_votes_polled_by_party": "27.563774007622499"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Manipur",
-		"total_valid_votes_polled_in_states": "1405132",
-		"total_electors_in_the_states": "1774369",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "168272",
-		"percentage_of_valid_votes_polled_by_party": "11.9755297011242"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Meghalaya",
-		"total_valid_votes_polled_in_states": "1047913",
-		"total_electors_in_the_states": "1567241",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "95979",
-		"percentage_of_valid_votes_polled_by_party": "9.1590618686856597"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "NCT OF Delhi",
-		"total_valid_votes_polled_in_states": "8232076",
-		"total_electors_in_the_states": "12711164",
-		"seats_won": "7",
-		"total_valid_votes_polled_by_party": "3838850",
-		"percentage_of_valid_votes_polled_by_party": "46.632829920423497"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Odisha",
-		"total_valid_votes_polled_in_states": "21196117",
-		"total_electors_in_the_states": "29196045",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "4638565",
-		"percentage_of_valid_votes_polled_by_party": "21.884031872441501"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "1209004",
-		"percentage_of_valid_votes_polled_by_party": "8.7695549911659203"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Rajasthan",
-		"total_valid_votes_polled_in_states": "26782731",
-		"total_electors_in_the_states": "42994657",
-		"seats_won": "25",
-		"total_valid_votes_polled_by_party": "14895106",
-		"percentage_of_valid_votes_polled_by_party": "55.614589863893997"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Sikkim",
-		"total_valid_votes_polled_in_states": "304635",
-		"total_electors_in_the_states": "370770",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "7279",
-		"percentage_of_valid_votes_polled_by_party": "2.3894168431073299"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "2223566",
-		"percentage_of_valid_votes_polled_by_party": "5.5553919093359001"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Tripura",
-		"total_valid_votes_polled_in_states": "2000046",
-		"total_electors_in_the_states": "2388822",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "115319",
-		"percentage_of_valid_votes_polled_by_party": "5.7658173862001201"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "71",
-		"total_valid_votes_polled_by_party": "34318854",
-		"percentage_of_valid_votes_polled_by_party": "42.631698926578203"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "Uttarakhand",
-		"total_valid_votes_polled_in_states": "4343847",
-		"total_electors_in_the_states": "7127057",
-		"seats_won": "5",
-		"total_valid_votes_polled_by_party": "2429698",
-		"percentage_of_valid_votes_polled_by_party": "55.934244461188399"
-	},
-	{
-		"party_name": "Bharatiya Janata Party",
-		"party_type": "N",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "8692297",
-		"percentage_of_valid_votes_polled_by_party": "17.0235136984662"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "187702",
-		"percentage_of_valid_votes_polled_by_party": "0.390828972107435"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "28930",
-		"percentage_of_valid_votes_polled_by_party": "0.19365644930866699"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "413347",
-		"percentage_of_valid_votes_polled_by_party": "1.1708097989461199"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Chhattisgarh",
-		"total_valid_votes_polled_in_states": "12030690",
-		"total_electors_in_the_states": "17664520",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "57365",
-		"percentage_of_valid_votes_polled_by_party": "0.47682219390575298"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Goa",
-		"total_valid_votes_polled_in_states": "806897",
-		"total_electors_in_the_states": "1060777",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "10077",
-		"percentage_of_valid_votes_polled_by_party": "1.24885828054882"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Gujarat",
-		"total_valid_votes_polled_in_states": "25369118",
-		"total_electors_in_the_states": "40603104",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "13270",
-		"percentage_of_valid_votes_polled_by_party": "5.23076915799753E-2"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "22068",
-		"percentage_of_valid_votes_polled_by_party": "0.192549802454966"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "78029",
-		"percentage_of_valid_votes_polled_by_party": "0.60998218185050301"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "28203",
-		"percentage_of_valid_votes_polled_by_party": "9.1624763084216299E-2"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "1364010",
-		"percentage_of_valid_votes_polled_by_party": "7.6779313778093199"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Lakshadweep",
-		"total_valid_votes_polled_in_states": "43116",
-		"total_electors_in_the_states": "49922",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "181",
-		"percentage_of_valid_votes_polled_by_party": "0.41979775489377502"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Madhya Pradesh",
-		"total_valid_votes_polled_in_states": "29247970",
-		"total_electors_in_the_states": "48121301",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "96683",
-		"percentage_of_valid_votes_polled_by_party": "0.33056311258525001"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "55533",
-		"percentage_of_valid_votes_polled_by_party": "0.11501266417155299"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Manipur",
-		"total_valid_votes_polled_in_states": "1405132",
-		"total_electors_in_the_states": "1774369",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "197428",
-		"percentage_of_valid_votes_polled_by_party": "14.050494900123301"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Meghalaya",
-		"total_valid_votes_polled_in_states": "1047913",
-		"total_electors_in_the_states": "1567241",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "7418",
-		"percentage_of_valid_votes_polled_by_party": "0.70788319259327803"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "NCT OF Delhi",
-		"total_valid_votes_polled_in_states": "8232076",
-		"total_electors_in_the_states": "12711164",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "4475",
-		"percentage_of_valid_votes_polled_by_party": "5.4360528255570001E-2"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Odisha",
-		"total_valid_votes_polled_in_states": "21196117",
-		"total_electors_in_the_states": "29196045",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "65667",
-		"percentage_of_valid_votes_polled_by_party": "0.309806744320198"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "12709",
-		"percentage_of_valid_votes_polled_by_party": "1.7706747066174899"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "54785",
-		"percentage_of_valid_votes_polled_by_party": "0.39738501294538697"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Rajasthan",
-		"total_valid_votes_polled_in_states": "26782731",
-		"total_electors_in_the_states": "42994657",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "70933",
-		"percentage_of_valid_votes_polled_by_party": "0.26484603082486202"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "219866",
-		"percentage_of_valid_votes_polled_by_party": "0.54931663712165302"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "129471",
-		"percentage_of_valid_votes_polled_by_party": "0.16083196401963201"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "Uttarakhand",
-		"total_valid_votes_polled_in_states": "4343847",
-		"total_electors_in_the_states": "7127057",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "6525",
-		"percentage_of_valid_votes_polled_by_party": "0.15021247295312201"
-	},
-	{
-		"party_name": "Communist Party of India",
-		"party_type": "N",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1202785",
-		"percentage_of_valid_votes_polled_by_party": "2.3556059950332702"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Andaman & Nicobar Islands",
-		"total_valid_votes_polled_in_states": "188764",
-		"total_electors_in_the_states": "269360",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1777",
-		"percentage_of_valid_votes_polled_by_party": "0.94138712890169696"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "158524",
-		"percentage_of_valid_votes_polled_by_party": "0.33007518286623999"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "64945",
-		"percentage_of_valid_votes_polled_by_party": "0.43473965089358402"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "106297",
-		"percentage_of_valid_votes_polled_by_party": "0.301087389526418"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Chhattisgarh",
-		"total_valid_votes_polled_in_states": "12030690",
-		"total_electors_in_the_states": "17664520",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "14849",
-		"percentage_of_valid_votes_polled_by_party": "0.123426004659749"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Gujarat",
-		"total_valid_votes_polled_in_states": "25369118",
-		"total_electors_in_the_states": "40603104",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "28958",
-		"percentage_of_valid_votes_polled_by_party": "0.114146656576709"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "21168",
-		"percentage_of_valid_votes_polled_by_party": "0.18469703726512299"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Himachal Pradesh",
-		"total_valid_votes_polled_in_states": "3069345",
-		"total_electors_in_the_states": "4810071",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "25399",
-		"percentage_of_valid_votes_polled_by_party": "0.82750554271351096"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "68212",
-		"percentage_of_valid_votes_polled_by_party": "0.53323898279340398"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "35465",
-		"percentage_of_valid_votes_polled_by_party": "0.11521725429144899"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "5",
-		"total_valid_votes_polled_by_party": "3880655",
-		"percentage_of_valid_votes_polled_by_party": "21.8439767970562"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Lakshadweep",
-		"total_valid_votes_polled_in_states": "43116",
-		"total_electors_in_the_states": "49922",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "465",
-		"percentage_of_valid_votes_polled_by_party": "1.0784859448928501"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Madhya Pradesh",
-		"total_valid_votes_polled_in_states": "29247970",
-		"total_electors_in_the_states": "48121301",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "16375",
-		"percentage_of_valid_votes_polled_by_party": "5.5986791561944298E-2"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "181629",
-		"percentage_of_valid_votes_polled_by_party": "0.37616615671429698"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Odisha",
-		"total_valid_votes_polled_in_states": "21196117",
-		"total_electors_in_the_states": "29196045",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "35968",
-		"percentage_of_valid_votes_polled_by_party": "0.169691458109993"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "17965",
-		"percentage_of_valid_votes_polled_by_party": "0.13030978840127599"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Rajasthan",
-		"total_valid_votes_polled_in_states": "26782731",
-		"total_electors_in_the_states": "42994657",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "78856",
-		"percentage_of_valid_votes_polled_by_party": "0.29442852560480098"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "220632",
-		"percentage_of_valid_votes_polled_by_party": "0.55123042344621098"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Tripura",
-		"total_valid_votes_polled_in_states": "2000046",
-		"total_electors_in_the_states": "2388822",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "1295436",
-		"percentage_of_valid_votes_polled_by_party": "64.770310282863505"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "5637",
-		"percentage_of_valid_votes_polled_by_party": "7.0024158396758103E-3"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "Uttarakhand",
-		"total_valid_votes_polled_in_states": "4343847",
-		"total_electors_in_the_states": "7127057",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "6577",
-		"percentage_of_valid_votes_polled_by_party": "0.15140956852301701"
-	},
-	{
-		"party_name": "Communist Party of India (Marxist)",
-		"party_type": "N",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "11723166",
-		"percentage_of_valid_votes_polled_by_party": "22.959348603757299"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Andaman & Nicobar Islands",
-		"total_valid_votes_polled_in_states": "188764",
-		"total_electors_in_the_states": "269360",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "83157",
-		"percentage_of_valid_votes_polled_by_party": "44.053421203195498"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "5578329",
-		"percentage_of_valid_votes_polled_by_party": "11.615073835905299"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Arunachal Pradesh",
-		"total_valid_votes_polled_in_states": "590635",
-		"total_electors_in_the_states": "759344",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "246084",
-		"percentage_of_valid_votes_polled_by_party": "41.664310445537403"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "3",
-		"total_valid_votes_polled_by_party": "4467295",
-		"percentage_of_valid_votes_polled_by_party": "29.903922838381"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "3021065",
-		"percentage_of_valid_votes_polled_by_party": "8.5571989279060308"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Chandigarh",
-		"total_valid_votes_polled_in_states": "450349",
-		"total_electors_in_the_states": "615214",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "121720",
-		"percentage_of_valid_votes_polled_by_party": "27.0279272297707"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Chhattisgarh",
-		"total_valid_votes_polled_in_states": "12030690",
-		"total_electors_in_the_states": "17664520",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "4702813",
-		"percentage_of_valid_votes_polled_by_party": "39.090135312272203"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Dadra & Nagar Haveli",
-		"total_valid_votes_polled_in_states": "162324",
-		"total_electors_in_the_states": "196597",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "74576",
-		"percentage_of_valid_votes_polled_by_party": "45.942682536162202"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Daman & Diu",
-		"total_valid_votes_polled_in_states": "85917",
-		"total_electors_in_the_states": "111827",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "37738",
-		"percentage_of_valid_votes_polled_by_party": "43.923786910623001"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Goa",
-		"total_valid_votes_polled_in_states": "806897",
-		"total_electors_in_the_states": "1060777",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "298750",
-		"percentage_of_valid_votes_polled_by_party": "37.024552080376999"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Gujarat",
-		"total_valid_votes_polled_in_states": "25369118",
-		"total_electors_in_the_states": "40603104",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "8486083",
-		"percentage_of_valid_votes_polled_by_party": "33.450445537759698"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "2634905",
-		"percentage_of_valid_votes_polled_by_party": "22.990322513938899"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Himachal Pradesh",
-		"total_valid_votes_polled_in_states": "3069345",
-		"total_electors_in_the_states": "4810071",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1260477",
-		"percentage_of_valid_votes_polled_by_party": "41.066644512102698"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Jammu & Kashmir",
-		"total_valid_votes_polled_in_states": "3535313",
-		"total_electors_in_the_states": "7183129",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "815510",
-		"percentage_of_valid_votes_polled_by_party": "23.067547343049998"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1724740",
-		"percentage_of_valid_votes_polled_by_party": "13.482944396632501"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "9",
-		"total_valid_votes_polled_by_party": "12666530",
-		"percentage_of_valid_votes_polled_by_party": "41.150509178070401"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "8",
-		"total_valid_votes_polled_by_party": "5590285",
-		"percentage_of_valid_votes_polled_by_party": "31.4673826529107"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Lakshadweep",
-		"total_valid_votes_polled_in_states": "43116",
-		"total_electors_in_the_states": "49922",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "20130",
-		"percentage_of_valid_votes_polled_by_party": "46.688004453103296"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Madhya Pradesh",
-		"total_valid_votes_polled_in_states": "29247970",
-		"total_electors_in_the_states": "48121301",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "10340274",
-		"percentage_of_valid_votes_polled_by_party": "35.353817717947599"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "8830190",
-		"percentage_of_valid_votes_polled_by_party": "18.2879310867594"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Manipur",
-		"total_valid_votes_polled_in_states": "1405132",
-		"total_electors_in_the_states": "1774369",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "588872",
-		"percentage_of_valid_votes_polled_by_party": "41.908660538653997"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Meghalaya",
-		"total_valid_votes_polled_in_states": "1047913",
-		"total_electors_in_the_states": "1567241",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "408925",
-		"percentage_of_valid_votes_polled_by_party": "39.022800556916501"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Mizoram",
-		"total_valid_votes_polled_in_states": "426706",
-		"total_electors_in_the_states": "702170",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "210485",
-		"percentage_of_valid_votes_polled_by_party": "49.327874461573103"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Nagaland",
-		"total_valid_votes_polled_in_states": "1036214",
-		"total_electors_in_the_states": "1182972",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "313147",
-		"percentage_of_valid_votes_polled_by_party": "30.2203019839531"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "NCT OF Delhi",
-		"total_valid_votes_polled_in_states": "8232076",
-		"total_electors_in_the_states": "12711164",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1253078",
-		"percentage_of_valid_votes_polled_by_party": "15.2218954246778"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Odisha",
-		"total_valid_votes_polled_in_states": "21196117",
-		"total_electors_in_the_states": "29196045",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "5591380",
-		"percentage_of_valid_votes_polled_by_party": "26.379265598505601"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "194972",
-		"percentage_of_valid_votes_polled_by_party": "27.164370831586002"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "3",
-		"total_valid_votes_polled_by_party": "4575879",
-		"percentage_of_valid_votes_polled_by_party": "33.1913066651734"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Rajasthan",
-		"total_valid_votes_polled_in_states": "26782731",
-		"total_electors_in_the_states": "42994657",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "8230164",
-		"percentage_of_valid_votes_polled_by_party": "30.729368114103099"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Sikkim",
-		"total_valid_votes_polled_in_states": "304635",
-		"total_electors_in_the_states": "370770",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "7189",
-		"percentage_of_valid_votes_polled_by_party": "2.3598732909875801"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1750990",
-		"percentage_of_valid_votes_polled_by_party": "4.3747006741999401"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Tripura",
-		"total_valid_votes_polled_in_states": "2000046",
-		"total_electors_in_the_states": "2388822",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "307592",
-		"percentage_of_valid_votes_polled_by_party": "15.3792462773356"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "6061267",
-		"percentage_of_valid_votes_polled_by_party": "7.5294504256349599"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "Uttarakhand",
-		"total_valid_votes_polled_in_states": "4343847",
-		"total_electors_in_the_states": "7127057",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1494440",
-		"percentage_of_valid_votes_polled_by_party": "34.4036058360251"
-	},
-	{
-		"party_name": "Indian National Congress",
-		"party_type": "N",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "4",
-		"total_valid_votes_polled_by_party": "4946911",
-		"percentage_of_valid_votes_polled_by_party": "9.6883260171152905"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Andaman & Nicobar Islands",
-		"total_valid_votes_polled_in_states": "188764",
-		"total_electors_in_the_states": "269360",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1151",
-		"percentage_of_valid_votes_polled_by_party": "0.60975609756097604"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "4769",
-		"percentage_of_valid_votes_polled_by_party": "9.9299068096256795E-3"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Arunachal Pradesh",
-		"total_valid_votes_polled_in_states": "590635",
-		"total_electors_in_the_states": "759344",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "6065",
-		"percentage_of_valid_votes_polled_by_party": "1.0268609208732999"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "431292",
-		"percentage_of_valid_votes_polled_by_party": "1.2216392033982899"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Dadra & Nagar Haveli",
-		"total_valid_votes_polled_in_states": "162324",
-		"total_electors_in_the_states": "196597",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1611",
-		"percentage_of_valid_votes_polled_by_party": "0.992459525393657"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Gujarat",
-		"total_valid_votes_polled_in_states": "25369118",
-		"total_electors_in_the_states": "40603104",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "240466",
-		"percentage_of_valid_votes_polled_by_party": "0.94786897991487096"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "42738",
-		"percentage_of_valid_votes_polled_by_party": "0.138845481852755"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Lakshadweep",
-		"total_valid_votes_polled_in_states": "43116",
-		"total_electors_in_the_states": "49922",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "21665",
-		"percentage_of_valid_votes_polled_by_party": "50.248167733556002"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "4",
-		"total_valid_votes_polled_by_party": "7782275",
-		"percentage_of_valid_votes_polled_by_party": "16.1176270157506"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Manipur",
-		"total_valid_votes_polled_in_states": "1405132",
-		"total_electors_in_the_states": "1774369",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "61662",
-		"percentage_of_valid_votes_polled_by_party": "4.3883421628715302"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "2149",
-		"percentage_of_valid_votes_polled_by_party": "1.55878505579928E-2"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Rajasthan",
-		"total_valid_votes_polled_in_states": "26782731",
-		"total_electors_in_the_states": "42994657",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "12149",
-		"percentage_of_valid_votes_polled_by_party": "4.5361318828912603E-2"
-	},
-	{
-		"party_name": "Nationalist Congress Party",
-		"party_type": "N",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "27566",
-		"percentage_of_valid_votes_polled_by_party": "3.4243142635533699E-2"
-	},
-	{
-		"party_name": "Aam Aadmi Party",
-		"party_type": "S",
-		"state_name": "NCT OF Delhi",
-		"total_valid_votes_polled_in_states": "8232076",
-		"total_electors_in_the_states": "12711164",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "2722887",
-		"percentage_of_valid_votes_polled_by_party": "33.076553229100398"
-	},
-	{
-		"party_name": "AJSU Party",
-		"party_type": "S",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "481667",
-		"percentage_of_valid_votes_polled_by_party": "3.7653729714002"
-	},
-	{
-		"party_name": "All India Anna Dravida Munnetra Kazhagam",
-		"party_type": "S",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "132657",
-		"percentage_of_valid_votes_polled_by_party": "18.4823663982813"
-	},
-	{
-		"party_name": "All India Anna Dravida Munnetra Kazhagam",
-		"party_type": "S",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "37",
-		"total_valid_votes_polled_by_party": "17978922",
-		"percentage_of_valid_votes_polled_by_party": "44.918818608209101"
-	},
-	{
-		"party_name": "All India Forward Bloc",
-		"party_type": "S",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1106038",
-		"percentage_of_valid_votes_polled_by_party": "2.1661308908363601"
-	},
-	{
-		"party_name": "All India N.R. Congress",
-		"party_type": "S",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "255826",
-		"percentage_of_valid_votes_polled_by_party": "35.642822212221802"
-	},
-	{
-		"party_name": "All India Trinamool Congress",
-		"party_type": "S",
-		"state_name": "Arunachal Pradesh",
-		"total_valid_votes_polled_in_states": "590635",
-		"total_electors_in_the_states": "759344",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "9135",
-		"percentage_of_valid_votes_polled_by_party": "1.5466404801611799"
-	},
-	{
-		"party_name": "All India Trinamool Congress",
-		"party_type": "S",
-		"state_name": "Manipur",
-		"total_valid_votes_polled_in_states": "1405132",
-		"total_electors_in_the_states": "1774369",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "52655",
-		"percentage_of_valid_votes_polled_by_party": "3.7473347699717898"
-	},
-	{
-		"party_name": "All India Trinamool Congress",
-		"party_type": "S",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "34",
-		"total_valid_votes_polled_by_party": "20316262",
-		"percentage_of_valid_votes_polled_by_party": "39.7885811378314"
-	},
-	{
-		"party_name": "All India United Democratic Front",
-		"party_type": "S",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "3",
-		"total_valid_votes_polled_by_party": "2237612",
-		"percentage_of_valid_votes_polled_by_party": "14.9784996491692"
-	},
-	{
-		"party_name": "Asom Gana Parishad",
-		"party_type": "S",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "577730",
-		"percentage_of_valid_votes_polled_by_party": "3.8673052353645501"
-	},
-	{
-		"party_name": "Biju Janata Dal",
-		"party_type": "S",
-		"state_name": "Odisha",
-		"total_valid_votes_polled_in_states": "21196117",
-		"total_electors_in_the_states": "29196045",
-		"seats_won": "20",
-		"total_valid_votes_polled_by_party": "9489946",
-		"percentage_of_valid_votes_polled_by_party": "44.772096700541901"
-	},
-	{
-		"party_name": "Bodoland Peoples Front",
-		"party_type": "S",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "330106",
-		"percentage_of_valid_votes_polled_by_party": "2.2097184879186602"
-	},
-	{
-		"party_name": "Desiya Murpokku Dravida Kazhagam",
-		"party_type": "S",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "2078843",
-		"percentage_of_valid_votes_polled_by_party": "5.1938137131884403"
-	},
-	{
-		"party_name": "Dravida Munnetra Kazhagam",
-		"party_type": "S",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "60580",
-		"percentage_of_valid_votes_polled_by_party": "8.4402764754809798"
-	},
-	{
-		"party_name": "Dravida Munnetra Kazhagam",
-		"party_type": "S",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "9570666",
-		"percentage_of_valid_votes_polled_by_party": "23.911500923901599"
-	},
-	{
-		"party_name": "Haryana Janhit Congress (BL)",
-		"party_type": "S",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "703698",
-		"percentage_of_valid_votes_polled_by_party": "6.1399723984028904"
-	},
-	{
-		"party_name": "Indian National Lok Dal",
-		"party_type": "S",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "2799899",
-		"percentage_of_valid_votes_polled_by_party": "24.4299437803089"
-	},
-	{
-		"party_name": "Indian Union Muslim League",
-		"party_type": "S",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "816226",
-		"percentage_of_valid_votes_polled_by_party": "4.5944877360017804"
-	},
-	{
-		"party_name": "Jammu & Kashmir National Conference",
-		"party_type": "S",
-		"state_name": "Jammu & Kashmir",
-		"total_valid_votes_polled_in_states": "3535313",
-		"total_electors_in_the_states": "7183129",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "396713",
-		"percentage_of_valid_votes_polled_by_party": "11.2214392332447"
-	},
-	{
-		"party_name": "Jammu & Kashmir National Panthers Party",
-		"party_type": "S",
-		"state_name": "Jammu & Kashmir",
-		"total_valid_votes_polled_in_states": "3535313",
-		"total_electors_in_the_states": "7183129",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "43452",
-		"percentage_of_valid_votes_polled_by_party": "1.22908494947972"
-	},
-	{
-		"party_name": "Jammu & Kashmir Peoples Democratic Party",
-		"party_type": "S",
-		"state_name": "Jammu & Kashmir",
-		"total_valid_votes_polled_in_states": "3535313",
-		"total_electors_in_the_states": "7183129",
-		"seats_won": "3",
-		"total_valid_votes_polled_by_party": "732644",
-		"percentage_of_valid_votes_polled_by_party": "20.723596467978901"
-	},
-	{
-		"party_name": "Janata Dal (Secular)",
-		"party_type": "S",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "3406465",
-		"percentage_of_valid_votes_polled_by_party": "11.066785397995799"
-	},
-	{
-		"party_name": "Janata Dal (Secular)",
-		"party_type": "S",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "303595",
-		"percentage_of_valid_votes_polled_by_party": "1.7089182459410299"
-	},
-	{
-		"party_name": "Janata Dal (United)",
-		"party_type": "S",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "5662444",
-		"percentage_of_valid_votes_polled_by_party": "16.038933199427301"
-	},
-	{
-		"party_name": "Jharkhand Mukti Morcha",
-		"party_type": "S",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "1205031",
-		"percentage_of_valid_votes_polled_by_party": "9.4201827343358708"
-	},
-	{
-		"party_name": "Jharkhand Vikas Morcha (Prajatantrik)",
-		"party_type": "S",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1567655",
-		"percentage_of_valid_votes_polled_by_party": "12.2549515858059"
-	},
-	{
-		"party_name": "Kerala Congress (M)",
-		"party_type": "S",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "424194",
-		"percentage_of_valid_votes_polled_by_party": "2.3877628630863801"
-	},
-	{
-		"party_name": "Lok Jan Shakti Party",
-		"party_type": "S",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "6",
-		"total_valid_votes_polled_by_party": "2295929",
-		"percentage_of_valid_votes_polled_by_party": "6.5032434513485704"
-	},
-	{
-		"party_name": "Maharashtra Navnirman sena",
-		"party_type": "S",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "708010",
-		"percentage_of_valid_votes_polled_by_party": "1.4663374274773799"
-	},
-	{
-		"party_name": "Naga Peoples Front",
-		"party_type": "S",
-		"state_name": "Manipur",
-		"total_valid_votes_polled_in_states": "1405132",
-		"total_electors_in_the_states": "1774369",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "281133",
-		"percentage_of_valid_votes_polled_by_party": "20.007586475861299"
-	},
-	{
-		"party_name": "Naga Peoples Front",
-		"party_type": "S",
-		"state_name": "Nagaland",
-		"total_valid_votes_polled_in_states": "1036214",
-		"total_electors_in_the_states": "1182972",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "713372",
-		"percentage_of_valid_votes_polled_by_party": "68.844080469864295"
-	},
-	{
-		"party_name": "National Peoples Party",
-		"party_type": "S",
-		"state_name": "Meghalaya",
-		"total_valid_votes_polled_in_states": "1047913",
-		"total_electors_in_the_states": "1567241",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "239301",
-		"percentage_of_valid_votes_polled_by_party": "22.835960618868199"
-	},
-	{
-		"party_name": "Pattali Makkal Katchi",
-		"party_type": "S",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "22754",
-		"percentage_of_valid_votes_polled_by_party": "3.1701890215103101"
-	},
-	{
-		"party_name": "People's Party of Arunachal",
-		"party_type": "S",
-		"state_name": "Arunachal Pradesh",
-		"total_valid_votes_polled_in_states": "590635",
-		"total_electors_in_the_states": "759344",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "47018",
-		"percentage_of_valid_votes_polled_by_party": "7.9605847943315204"
-	},
-	{
-		"party_name": "Rashtriya Janata Dal",
-		"party_type": "S",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "4",
-		"total_valid_votes_polled_by_party": "7224893",
-		"percentage_of_valid_votes_polled_by_party": "20.4645867049652"
-	},
-	{
-		"party_name": "Rashtriya Janata Dal",
-		"party_type": "S",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "212571",
-		"percentage_of_valid_votes_polled_by_party": "1.66174784218872"
-	},
-	{
-		"party_name": "Rashtriya Lok Dal",
-		"party_type": "S",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "689409",
-		"percentage_of_valid_votes_polled_by_party": "0.85640030186536398"
-	},
-	{
-		"party_name": "Revolutionary Socialist Party",
-		"party_type": "S",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1255794",
-		"percentage_of_valid_votes_polled_by_party": "2.4594219872436098"
-	},
-	{
-		"party_name": "Samajwadi Party",
-		"party_type": "S",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "5",
-		"total_valid_votes_polled_by_party": "17988967",
-		"percentage_of_valid_votes_polled_by_party": "22.346323835409901"
-	},
-	{
-		"party_name": "Shiromani Akali Dal",
-		"party_type": "S",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "4",
-		"total_valid_votes_polled_by_party": "3636148",
-		"percentage_of_valid_votes_polled_by_party": "26.3749332855954"
-	},
-	{
-		"party_name": "Shivsena",
-		"party_type": "S",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "18",
-		"total_valid_votes_polled_by_party": "10050652",
-		"percentage_of_valid_votes_polled_by_party": "20.815591867559"
-	},
-	{
-		"party_name": "Sikkim Democratic Front",
-		"party_type": "S",
-		"state_name": "Sikkim",
-		"total_valid_votes_polled_in_states": "304635",
-		"total_electors_in_the_states": "370770",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "163698",
-		"percentage_of_valid_votes_polled_by_party": "53.735782165542403"
-	},
-	{
-		"party_name": "Telangana Rashtra Samithi",
-		"party_type": "S",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "11",
-		"total_valid_votes_polled_by_party": "6736270",
-		"percentage_of_valid_votes_polled_by_party": "14.0261130938304"
-	},
-	{
-		"party_name": "Telugu Desam",
-		"party_type": "S",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "16",
-		"total_valid_votes_polled_by_party": "14099230",
-		"percentage_of_valid_votes_polled_by_party": "29.357106308970099"
-	},
-	{
-		"party_name": "United Democratic Party",
-		"party_type": "S",
-		"state_name": "Meghalaya",
-		"total_valid_votes_polled_in_states": "1047913",
-		"total_electors_in_the_states": "1567241",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "106817",
-		"percentage_of_valid_votes_polled_by_party": "10.193308032250799"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Andaman & Nicobar Islands",
-		"total_valid_votes_polled_in_states": "188764",
-		"total_electors_in_the_states": "269360",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "436",
-		"percentage_of_valid_votes_polled_by_party": "0.230976245470535"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "10",
-		"total_valid_votes_polled_by_party": "15697868",
-		"percentage_of_valid_votes_polled_by_party": "32.685755158273203"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Arunachal Pradesh",
-		"total_valid_votes_polled_in_states": "590635",
-		"total_electors_in_the_states": "759344",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "980",
-		"percentage_of_valid_votes_polled_by_party": "0.16592311664564399"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "95013",
-		"percentage_of_valid_votes_polled_by_party": "0.63601383401881795"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "3",
-		"total_valid_votes_polled_by_party": "2460537",
-		"percentage_of_valid_votes_polled_by_party": "6.9694973721098803"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Chandigarh",
-		"total_valid_votes_polled_in_states": "450349",
-		"total_electors_in_the_states": "615214",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "3724",
-		"percentage_of_valid_votes_polled_by_party": "0.82691423762459804"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Chhattisgarh",
-		"total_valid_votes_polled_in_states": "12030690",
-		"total_electors_in_the_states": "17664520",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "286870",
-		"percentage_of_valid_votes_polled_by_party": "2.3844850129128101"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Dadra & Nagar Haveli",
-		"total_valid_votes_polled_in_states": "162324",
-		"total_electors_in_the_states": "196597",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "348",
-		"percentage_of_valid_votes_polled_by_party": "0.21438604272935599"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Goa",
-		"total_valid_votes_polled_in_states": "806897",
-		"total_electors_in_the_states": "1060777",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "5195",
-		"percentage_of_valid_votes_polled_by_party": "0.64382442864454803"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Gujarat",
-		"total_valid_votes_polled_in_states": "25369118",
-		"total_electors_in_the_states": "40603104",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "137196",
-		"percentage_of_valid_votes_polled_by_party": "0.54079925049030098"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "65305",
-		"percentage_of_valid_votes_polled_by_party": "0.569805367469711"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Himachal Pradesh",
-		"total_valid_votes_polled_in_states": "3069345",
-		"total_electors_in_the_states": "4810071",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "2535",
-		"percentage_of_valid_votes_polled_by_party": "8.2590911090151195E-2"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Jammu & Kashmir",
-		"total_valid_votes_polled_in_states": "3535313",
-		"total_electors_in_the_states": "7183129",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "101016",
-		"percentage_of_valid_votes_polled_by_party": "2.85734247575816"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1087761",
-		"percentage_of_valid_votes_polled_by_party": "8.5034388254608597"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "215963",
-		"percentage_of_valid_votes_polled_by_party": "0.70161183951908002"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "731054",
-		"percentage_of_valid_votes_polled_by_party": "4.11505960034971"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Madhya Pradesh",
-		"total_valid_votes_polled_in_states": "29247970",
-		"total_electors_in_the_states": "48121301",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "480654",
-		"percentage_of_valid_votes_polled_by_party": "1.64337559153678"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "3294944",
-		"percentage_of_valid_votes_polled_by_party": "6.8240557458821796"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Manipur",
-		"total_valid_votes_polled_in_states": "1405132",
-		"total_electors_in_the_states": "1774369",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "3408",
-		"percentage_of_valid_votes_polled_by_party": "0.24253949095173999"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Nagaland",
-		"total_valid_votes_polled_in_states": "1036214",
-		"total_electors_in_the_states": "1182972",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "9695",
-		"percentage_of_valid_votes_polled_by_party": "0.935617546182545"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "NCT OF Delhi",
-		"total_valid_votes_polled_in_states": "8232076",
-		"total_electors_in_the_states": "12711164",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "34419",
-		"percentage_of_valid_votes_polled_by_party": "0.41810838481083001"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Odisha",
-		"total_valid_votes_polled_in_states": "21196117",
-		"total_electors_in_the_states": "29196045",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "443737",
-		"percentage_of_valid_votes_polled_by_party": "2.0934824996483998"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "804",
-		"percentage_of_valid_votes_polled_by_party": "0.11201687497997199"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "128832",
-		"percentage_of_valid_votes_polled_by_party": "0.93448765150643598"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Rajasthan",
-		"total_valid_votes_polled_in_states": "26782731",
-		"total_electors_in_the_states": "42994657",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "387630",
-		"percentage_of_valid_votes_polled_by_party": "1.44731319595451"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Sikkim",
-		"total_valid_votes_polled_in_states": "304635",
-		"total_electors_in_the_states": "370770",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "121956",
-		"percentage_of_valid_votes_polled_by_party": "40.033482692402401"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "2723146",
-		"percentage_of_valid_votes_polled_by_party": "6.8035503584514299"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Tripura",
-		"total_valid_votes_polled_in_states": "2000046",
-		"total_electors_in_the_states": "2388822",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "59328",
-		"percentage_of_valid_votes_polled_by_party": "2.9663317743691899"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "2944443",
-		"percentage_of_valid_votes_polled_by_party": "3.65765731811647"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "Uttarakhand",
-		"total_valid_votes_polled_in_states": "4343847",
-		"total_electors_in_the_states": "7127057",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "31833",
-		"percentage_of_valid_votes_polled_by_party": "0.73282967839336899"
-	},
-	{
-		"party_name": "Unrecognised",
-		"party_type": "U",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "827276",
-		"percentage_of_valid_votes_polled_by_party": "1.6201867375691801"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Andaman & Nicobar Islands",
-		"total_valid_votes_polled_in_states": "188764",
-		"total_electors_in_the_states": "269360",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "3511",
-		"percentage_of_valid_votes_polled_by_party": "1.85999449047488"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Andhra Pradesh",
-		"total_valid_votes_polled_in_states": "48026634",
-		"total_electors_in_the_states": "64934138",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "949666",
-		"percentage_of_valid_votes_polled_by_party": "1.97737363813587"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Arunachal Pradesh",
-		"total_valid_votes_polled_in_states": "590635",
-		"total_electors_in_the_states": "759344",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "2362",
-		"percentage_of_valid_votes_polled_by_party": "0.39990857297654198"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Assam",
-		"total_valid_votes_polled_in_states": "14938826",
-		"total_electors_in_the_states": "18837713",
-		"seats_won": "1",
-		"total_valid_votes_polled_by_party": "1436900",
-		"percentage_of_valid_votes_polled_by_party": "9.6185603875431696"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Bihar",
-		"total_valid_votes_polled_in_states": "35304368",
-		"total_electors_in_the_states": "63800160",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1533264",
-		"percentage_of_valid_votes_polled_by_party": "4.3429866808549002"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Chandigarh",
-		"total_valid_votes_polled_in_states": "450349",
-		"total_electors_in_the_states": "615214",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "8496",
-		"percentage_of_valid_votes_polled_by_party": "1.8865368858374301"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Chhattisgarh",
-		"total_valid_votes_polled_in_states": "12030690",
-		"total_electors_in_the_states": "17664520",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "516430",
-		"percentage_of_valid_votes_polled_by_party": "4.2926049960559203"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Dadra & Nagar Haveli",
-		"total_valid_votes_polled_in_states": "162324",
-		"total_electors_in_the_states": "196597",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "2786",
-		"percentage_of_valid_votes_polled_by_party": "1.7163204455287"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Goa",
-		"total_valid_votes_polled_in_states": "806897",
-		"total_electors_in_the_states": "1060777",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "17152",
-		"percentage_of_valid_votes_polled_by_party": "2.1256740327451999"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Gujarat",
-		"total_valid_votes_polled_in_states": "25369118",
-		"total_electors_in_the_states": "40603104",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "542006",
-		"percentage_of_valid_votes_polled_by_party": "2.1364794787110899"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Haryana",
-		"total_valid_votes_polled_in_states": "11460931",
-		"total_electors_in_the_states": "16097233",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "191278",
-		"percentage_of_valid_votes_polled_by_party": "1.6689569110921301"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Himachal Pradesh",
-		"total_valid_votes_polled_in_states": "3069345",
-		"total_electors_in_the_states": "4810071",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "28507",
-		"percentage_of_valid_votes_polled_by_party": "0.92876493193173104"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Jammu & Kashmir",
-		"total_valid_votes_polled_in_states": "3535313",
-		"total_electors_in_the_states": "7183129",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "223498",
-		"percentage_of_valid_votes_polled_by_party": "6.3218730562187799"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Jharkhand",
-		"total_valid_votes_polled_in_states": "12792013",
-		"total_electors_in_the_states": "20349796",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "426224",
-		"percentage_of_valid_votes_polled_by_party": "3.3319540872886901"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Karnataka",
-		"total_valid_votes_polled_in_states": "30780980",
-		"total_electors_in_the_states": "46209813",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "483513",
-		"percentage_of_valid_votes_polled_by_party": "1.57081743336307"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Kerala",
-		"total_valid_votes_polled_in_states": "17765332",
-		"total_electors_in_the_states": "24326650",
-		"seats_won": "2",
-		"total_valid_votes_polled_by_party": "2043666",
-		"percentage_of_valid_votes_polled_by_party": "11.503674685055101"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Madhya Pradesh",
-		"total_valid_votes_polled_in_states": "29247970",
-		"total_electors_in_the_states": "48121301",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "548867",
-		"percentage_of_valid_votes_polled_by_party": "1.8765986152201299"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Maharashtra",
-		"total_valid_votes_polled_in_states": "48284248",
-		"total_electors_in_the_states": "80798823",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1577114",
-		"percentage_of_valid_votes_polled_by_party": "3.2663116136757502"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Manipur",
-		"total_valid_votes_polled_in_states": "1405132",
-		"total_electors_in_the_states": "1774369",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "43013",
-		"percentage_of_valid_votes_polled_by_party": "3.06113589328262"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Meghalaya",
-		"total_valid_votes_polled_in_states": "1047913",
-		"total_electors_in_the_states": "1567241",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "180658",
-		"percentage_of_valid_votes_polled_by_party": "17.2397899443942"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Mizoram",
-		"total_valid_votes_polled_in_states": "426706",
-		"total_electors_in_the_states": "702170",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "204331",
-		"percentage_of_valid_votes_polled_by_party": "47.885663665380797"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "NCT OF Delhi",
-		"total_valid_votes_polled_in_states": "8232076",
-		"total_electors_in_the_states": "12711164",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "261664",
-		"percentage_of_valid_votes_polled_by_party": "3.17859067384703"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Odisha",
-		"total_valid_votes_polled_in_states": "21196117",
-		"total_electors_in_the_states": "29196045",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "333196",
-		"percentage_of_valid_votes_polled_by_party": "1.5719671673825899"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Puducherry",
-		"total_valid_votes_polled_in_states": "717749",
-		"total_electors_in_the_states": "901357",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "26771",
-		"percentage_of_valid_votes_polled_by_party": "3.7298554229960601"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Punjab",
-		"total_valid_votes_polled_in_states": "13786378",
-		"total_electors_in_the_states": "19608161",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "498039",
-		"percentage_of_valid_votes_polled_by_party": "3.6125442084933401"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Rajasthan",
-		"total_valid_votes_polled_in_states": "26782731",
-		"total_electors_in_the_states": "42994657",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1806700",
-		"percentage_of_valid_votes_polled_by_party": "6.7457646496169499"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Tamil Nadu",
-		"total_valid_votes_polled_in_states": "40025367",
-		"total_electors_in_the_states": "55114867",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "866317",
-		"percentage_of_valid_votes_polled_by_party": "2.1644198790232201"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Tripura",
-		"total_valid_votes_polled_in_states": "2000046",
-		"total_electors_in_the_states": "2388822",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "17764",
-		"percentage_of_valid_votes_polled_by_party": "0.88817957186984697"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Uttar Pradesh",
-		"total_valid_votes_polled_in_states": "80500789",
-		"total_electors_in_the_states": "138810557",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "1414869",
-		"percentage_of_valid_votes_polled_by_party": "1.7575840157293401"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "Uttarakhand",
-		"total_valid_votes_polled_in_states": "4343847",
-		"total_electors_in_the_states": "7127057",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "76158",
-		"percentage_of_valid_votes_polled_by_party": "1.75323854638527"
-	},
-	{
-		"party_name": "Independent",
-		"party_type": "Z",
-		"state_name": "West Bengal",
-		"total_valid_votes_polled_in_states": "51060534",
-		"total_electors_in_the_states": "62833113",
-		"seats_won": "0",
-		"total_valid_votes_polled_by_party": "473000",
-		"percentage_of_valid_votes_polled_by_party": "0.92635145570549604"
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Andaman & Nicobar Islands",
+		"totalVotesPolled": "188764",
+		"totalVotesInState": "269360",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1139",
+		"totalVotesPolledForPartyPercentage": "0.60"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "397567",
+		"totalVotesPolledForPartyPercentage": "0.83"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "765758",
+		"totalVotesPolledForPartyPercentage": "2.17"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Chandigarh",
+		"totalVotesPolled": "450349",
+		"totalVotesInState": "615214",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "15934",
+		"totalVotesPolledForPartyPercentage": "3.54"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Chhattisgarh",
+		"totalVotesPolled": "12030690",
+		"totalVotesInState": "17664520",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "293910",
+		"totalVotesPolledForPartyPercentage": "2.44"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Dadra & Nagar Haveli",
+		"totalVotesPolled": "162324",
+		"totalVotesInState": "196597",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "982",
+		"totalVotesPolledForPartyPercentage": "0.60"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Daman & Diu",
+		"totalVotesPolled": "85917",
+		"totalVotesInState": "111827",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "490",
+		"totalVotesPolledForPartyPercentage": "0.57"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Gujarat",
+		"totalVotesPolled": "25369118",
+		"totalVotesInState": "40603104",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "243949",
+		"totalVotesPolledForPartyPercentage": "0.96"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "527013",
+		"totalVotesPolledForPartyPercentage": "4.60"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Himachal Pradesh",
+		"totalVotesPolled": "3069345",
+		"totalVotesInState": "4810071",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "22928",
+		"totalVotesPolledForPartyPercentage": "0.75"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Jammu & Kashmir",
+		"totalVotesPolled": "3535313",
+		"totalVotesInState": "7183129",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "54091",
+		"totalVotesPolledForPartyPercentage": "1.53"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "140141",
+		"totalVotesPolledForPartyPercentage": "1.10"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "265006",
+		"totalVotesPolledForPartyPercentage": "0.86"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "71316",
+		"totalVotesPolledForPartyPercentage": "0.40"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Madhya Pradesh",
+		"totalVotesPolled": "29247970",
+		"totalVotesInState": "48121301",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1124772",
+		"totalVotesPolledForPartyPercentage": "3.85"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1271680",
+		"totalVotesPolledForPartyPercentage": "2.63"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "NCT OF Delhi",
+		"totalVotesPolled": "8232076",
+		"totalVotesInState": "12711164",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "101609",
+		"totalVotesPolledForPartyPercentage": "1.23"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Odisha",
+		"totalVotesPolled": "21196117",
+		"totalVotesInState": "29196045",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "218403",
+		"totalVotesPolledForPartyPercentage": "1.03"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "2060",
+		"totalVotesPolledForPartyPercentage": "0.29"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "263227",
+		"totalVotesPolledForPartyPercentage": "1.91"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Rajasthan",
+		"totalVotesPolled": "26782731",
+		"totalVotesInState": "42994657",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "633786",
+		"totalVotesPolledForPartyPercentage": "2.37"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "155951",
+		"totalVotesPolledForPartyPercentage": "0.39"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "15914194",
+		"totalVotesPolledForPartyPercentage": "19.77"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "Uttarakhand",
+		"totalVotesPolled": "4343847",
+		"totalVotesInState": "7127057",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "207846",
+		"totalVotesPolledForPartyPercentage": "4.78"
+	},
+	{
+		"partyName": "Bahujan Samaj Party",
+		"partyType": "N",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "252594",
+		"totalVotesPolledForPartyPercentage": "0.49"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Andaman & Nicobar Islands",
+		"totalVotesPolled": "188764",
+		"totalVotesInState": "269360",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "90969",
+		"totalVotesPolledForPartyPercentage": "48.191922188552901"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "3",
+		"totalVotesPolledForParty": "4091908",
+		"totalVotesPolledForPartyPercentage": "8.5200807535252192"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Arunachal Pradesh",
+		"totalVotesPolled": "590635",
+		"totalVotesInState": "759344",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "275344",
+		"totalVotesPolledForPartyPercentage": "46.618300642528801"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "7",
+		"totalVotesPolledForParty": "5507152",
+		"totalVotesPolledForPartyPercentage": "36.864690705949698"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "22",
+		"totalVotesPolledForParty": "10543025",
+		"totalVotesPolledForPartyPercentage": "29.8632310880059"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Chandigarh",
+		"totalVotesPolled": "450349",
+		"totalVotesInState": "615214",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "191362",
+		"totalVotesPolledForPartyPercentage": "42.491934033382996"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Chhattisgarh",
+		"totalVotesPolled": "12030690",
+		"totalVotesInState": "17664520",
+		"seatsWon": "10",
+		"totalVotesPolledForParty": "5973904",
+		"totalVotesPolledForPartyPercentage": "49.655539291595097"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Dadra & Nagar Haveli",
+		"totalVotesPolled": "162324",
+		"totalVotesInState": "196597",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "80790",
+		"totalVotesPolledForPartyPercentage": "49.7708287129445"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Daman & Diu",
+		"totalVotesPolled": "85917",
+		"totalVotesInState": "111827",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "46960",
+		"totalVotesPolledForPartyPercentage": "54.657401911146799"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Goa",
+		"totalVotesPolled": "806897",
+		"totalVotesInState": "1060777",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "436679",
+		"totalVotesPolledForPartyPercentage": "54.1183075411112"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Gujarat",
+		"totalVotesPolled": "25369118",
+		"totalVotesInState": "40603104",
+		"seatsWon": "26",
+		"totalVotesPolledForParty": "15249243",
+		"totalVotesPolledForPartyPercentage": "60.109472469638099"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "7",
+		"totalVotesPolledForParty": "3993527",
+		"totalVotesPolledForPartyPercentage": "34.8446997892231"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Himachal Pradesh",
+		"totalVotesPolled": "3069345",
+		"totalVotesInState": "4810071",
+		"seatsWon": "4",
+		"totalVotesPolledForParty": "1652995",
+		"totalVotesPolledForPartyPercentage": "53.8549755729643"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Jammu & Kashmir",
+		"totalVotesPolled": "3535313",
+		"totalVotesInState": "7183129",
+		"seatsWon": "3",
+		"totalVotesPolledForParty": "1154220",
+		"totalVotesPolledForPartyPercentage": "32.648311479068497"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "12",
+		"totalVotesPolledForParty": "5207439",
+		"totalVotesPolledForPartyPercentage": "40.708518667077698"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "17",
+		"totalVotesPolledForParty": "13350285",
+		"totalVotesPolledForPartyPercentage": "43.371864703462997"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1856796",
+		"totalVotesPolledForPartyPercentage": "10.4517945400626"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Lakshadweep",
+		"totalVotesPolled": "43116",
+		"totalVotesInState": "49922",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "187",
+		"totalVotesPolledForPartyPercentage": "0.43371370256981201"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Madhya Pradesh",
+		"totalVotesPolled": "29247970",
+		"totalVotesInState": "48121301",
+		"seatsWon": "27",
+		"totalVotesPolledForParty": "16015695",
+		"totalVotesPolledForPartyPercentage": "54.758313141048802"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "23",
+		"totalVotesPolledForParty": "13308961",
+		"totalVotesPolledForPartyPercentage": "27.563774007622499"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Manipur",
+		"totalVotesPolled": "1405132",
+		"totalVotesInState": "1774369",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "168272",
+		"totalVotesPolledForPartyPercentage": "11.9755297011242"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Meghalaya",
+		"totalVotesPolled": "1047913",
+		"totalVotesInState": "1567241",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "95979",
+		"totalVotesPolledForPartyPercentage": "9.1590618686856597"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "NCT OF Delhi",
+		"totalVotesPolled": "8232076",
+		"totalVotesInState": "12711164",
+		"seatsWon": "7",
+		"totalVotesPolledForParty": "3838850",
+		"totalVotesPolledForPartyPercentage": "46.632829920423497"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Odisha",
+		"totalVotesPolled": "21196117",
+		"totalVotesInState": "29196045",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "4638565",
+		"totalVotesPolledForPartyPercentage": "21.884031872441501"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "1209004",
+		"totalVotesPolledForPartyPercentage": "8.7695549911659203"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Rajasthan",
+		"totalVotesPolled": "26782731",
+		"totalVotesInState": "42994657",
+		"seatsWon": "25",
+		"totalVotesPolledForParty": "14895106",
+		"totalVotesPolledForPartyPercentage": "55.614589863893997"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Sikkim",
+		"totalVotesPolled": "304635",
+		"totalVotesInState": "370770",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "7279",
+		"totalVotesPolledForPartyPercentage": "2.3894168431073299"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "2223566",
+		"totalVotesPolledForPartyPercentage": "5.5553919093359001"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Tripura",
+		"totalVotesPolled": "2000046",
+		"totalVotesInState": "2388822",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "115319",
+		"totalVotesPolledForPartyPercentage": "5.7658173862001201"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "71",
+		"totalVotesPolledForParty": "34318854",
+		"totalVotesPolledForPartyPercentage": "42.631698926578203"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "Uttarakhand",
+		"totalVotesPolled": "4343847",
+		"totalVotesInState": "7127057",
+		"seatsWon": "5",
+		"totalVotesPolledForParty": "2429698",
+		"totalVotesPolledForPartyPercentage": "55.934244461188399"
+	},
+	{
+		"partyName": "Bharatiya Janata Party",
+		"partyType": "N",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "8692297",
+		"totalVotesPolledForPartyPercentage": "17.0235136984662"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "187702",
+		"totalVotesPolledForPartyPercentage": "0.390828972107435"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "28930",
+		"totalVotesPolledForPartyPercentage": "0.19365644930866699"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "413347",
+		"totalVotesPolledForPartyPercentage": "1.1708097989461199"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Chhattisgarh",
+		"totalVotesPolled": "12030690",
+		"totalVotesInState": "17664520",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "57365",
+		"totalVotesPolledForPartyPercentage": "0.47682219390575298"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Goa",
+		"totalVotesPolled": "806897",
+		"totalVotesInState": "1060777",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "10077",
+		"totalVotesPolledForPartyPercentage": "1.24885828054882"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Gujarat",
+		"totalVotesPolled": "25369118",
+		"totalVotesInState": "40603104",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "13270",
+		"totalVotesPolledForPartyPercentage": "5.23076915799753E-2"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "22068",
+		"totalVotesPolledForPartyPercentage": "0.192549802454966"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "78029",
+		"totalVotesPolledForPartyPercentage": "0.60998218185050301"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "28203",
+		"totalVotesPolledForPartyPercentage": "9.1624763084216299E-2"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "1364010",
+		"totalVotesPolledForPartyPercentage": "7.6779313778093199"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Lakshadweep",
+		"totalVotesPolled": "43116",
+		"totalVotesInState": "49922",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "181",
+		"totalVotesPolledForPartyPercentage": "0.41979775489377502"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Madhya Pradesh",
+		"totalVotesPolled": "29247970",
+		"totalVotesInState": "48121301",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "96683",
+		"totalVotesPolledForPartyPercentage": "0.33056311258525001"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "55533",
+		"totalVotesPolledForPartyPercentage": "0.11501266417155299"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Manipur",
+		"totalVotesPolled": "1405132",
+		"totalVotesInState": "1774369",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "197428",
+		"totalVotesPolledForPartyPercentage": "14.050494900123301"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Meghalaya",
+		"totalVotesPolled": "1047913",
+		"totalVotesInState": "1567241",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "7418",
+		"totalVotesPolledForPartyPercentage": "0.70788319259327803"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "NCT OF Delhi",
+		"totalVotesPolled": "8232076",
+		"totalVotesInState": "12711164",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "4475",
+		"totalVotesPolledForPartyPercentage": "5.4360528255570001E-2"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Odisha",
+		"totalVotesPolled": "21196117",
+		"totalVotesInState": "29196045",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "65667",
+		"totalVotesPolledForPartyPercentage": "0.309806744320198"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "12709",
+		"totalVotesPolledForPartyPercentage": "1.7706747066174899"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "54785",
+		"totalVotesPolledForPartyPercentage": "0.39738501294538697"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Rajasthan",
+		"totalVotesPolled": "26782731",
+		"totalVotesInState": "42994657",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "70933",
+		"totalVotesPolledForPartyPercentage": "0.26484603082486202"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "219866",
+		"totalVotesPolledForPartyPercentage": "0.54931663712165302"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "129471",
+		"totalVotesPolledForPartyPercentage": "0.16083196401963201"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "Uttarakhand",
+		"totalVotesPolled": "4343847",
+		"totalVotesInState": "7127057",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "6525",
+		"totalVotesPolledForPartyPercentage": "0.15021247295312201"
+	},
+	{
+		"partyName": "Communist Party of India",
+		"partyType": "N",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1202785",
+		"totalVotesPolledForPartyPercentage": "2.3556059950332702"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Andaman & Nicobar Islands",
+		"totalVotesPolled": "188764",
+		"totalVotesInState": "269360",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1777",
+		"totalVotesPolledForPartyPercentage": "0.94138712890169696"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "158524",
+		"totalVotesPolledForPartyPercentage": "0.33007518286623999"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "64945",
+		"totalVotesPolledForPartyPercentage": "0.43473965089358402"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "106297",
+		"totalVotesPolledForPartyPercentage": "0.301087389526418"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Chhattisgarh",
+		"totalVotesPolled": "12030690",
+		"totalVotesInState": "17664520",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "14849",
+		"totalVotesPolledForPartyPercentage": "0.123426004659749"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Gujarat",
+		"totalVotesPolled": "25369118",
+		"totalVotesInState": "40603104",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "28958",
+		"totalVotesPolledForPartyPercentage": "0.114146656576709"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "21168",
+		"totalVotesPolledForPartyPercentage": "0.18469703726512299"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Himachal Pradesh",
+		"totalVotesPolled": "3069345",
+		"totalVotesInState": "4810071",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "25399",
+		"totalVotesPolledForPartyPercentage": "0.82750554271351096"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "68212",
+		"totalVotesPolledForPartyPercentage": "0.53323898279340398"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "35465",
+		"totalVotesPolledForPartyPercentage": "0.11521725429144899"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "5",
+		"totalVotesPolledForParty": "3880655",
+		"totalVotesPolledForPartyPercentage": "21.8439767970562"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Lakshadweep",
+		"totalVotesPolled": "43116",
+		"totalVotesInState": "49922",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "465",
+		"totalVotesPolledForPartyPercentage": "1.0784859448928501"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Madhya Pradesh",
+		"totalVotesPolled": "29247970",
+		"totalVotesInState": "48121301",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "16375",
+		"totalVotesPolledForPartyPercentage": "5.5986791561944298E-2"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "181629",
+		"totalVotesPolledForPartyPercentage": "0.37616615671429698"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Odisha",
+		"totalVotesPolled": "21196117",
+		"totalVotesInState": "29196045",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "35968",
+		"totalVotesPolledForPartyPercentage": "0.169691458109993"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "17965",
+		"totalVotesPolledForPartyPercentage": "0.13030978840127599"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Rajasthan",
+		"totalVotesPolled": "26782731",
+		"totalVotesInState": "42994657",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "78856",
+		"totalVotesPolledForPartyPercentage": "0.29442852560480098"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "220632",
+		"totalVotesPolledForPartyPercentage": "0.55123042344621098"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Tripura",
+		"totalVotesPolled": "2000046",
+		"totalVotesInState": "2388822",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "1295436",
+		"totalVotesPolledForPartyPercentage": "64.770310282863505"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "5637",
+		"totalVotesPolledForPartyPercentage": "7.0024158396758103E-3"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "Uttarakhand",
+		"totalVotesPolled": "4343847",
+		"totalVotesInState": "7127057",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "6577",
+		"totalVotesPolledForPartyPercentage": "0.15140956852301701"
+	},
+	{
+		"partyName": "Communist Party of India (Marxist)",
+		"partyType": "N",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "11723166",
+		"totalVotesPolledForPartyPercentage": "22.959348603757299"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Andaman & Nicobar Islands",
+		"totalVotesPolled": "188764",
+		"totalVotesInState": "269360",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "83157",
+		"totalVotesPolledForPartyPercentage": "44.053421203195498"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "5578329",
+		"totalVotesPolledForPartyPercentage": "11.615073835905299"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Arunachal Pradesh",
+		"totalVotesPolled": "590635",
+		"totalVotesInState": "759344",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "246084",
+		"totalVotesPolledForPartyPercentage": "41.664310445537403"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "3",
+		"totalVotesPolledForParty": "4467295",
+		"totalVotesPolledForPartyPercentage": "29.903922838381"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "3021065",
+		"totalVotesPolledForPartyPercentage": "8.5571989279060308"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Chandigarh",
+		"totalVotesPolled": "450349",
+		"totalVotesInState": "615214",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "121720",
+		"totalVotesPolledForPartyPercentage": "27.0279272297707"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Chhattisgarh",
+		"totalVotesPolled": "12030690",
+		"totalVotesInState": "17664520",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "4702813",
+		"totalVotesPolledForPartyPercentage": "39.090135312272203"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Dadra & Nagar Haveli",
+		"totalVotesPolled": "162324",
+		"totalVotesInState": "196597",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "74576",
+		"totalVotesPolledForPartyPercentage": "45.942682536162202"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Daman & Diu",
+		"totalVotesPolled": "85917",
+		"totalVotesInState": "111827",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "37738",
+		"totalVotesPolledForPartyPercentage": "43.923786910623001"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Goa",
+		"totalVotesPolled": "806897",
+		"totalVotesInState": "1060777",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "298750",
+		"totalVotesPolledForPartyPercentage": "37.024552080376999"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Gujarat",
+		"totalVotesPolled": "25369118",
+		"totalVotesInState": "40603104",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "8486083",
+		"totalVotesPolledForPartyPercentage": "33.450445537759698"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "2634905",
+		"totalVotesPolledForPartyPercentage": "22.990322513938899"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Himachal Pradesh",
+		"totalVotesPolled": "3069345",
+		"totalVotesInState": "4810071",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1260477",
+		"totalVotesPolledForPartyPercentage": "41.066644512102698"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Jammu & Kashmir",
+		"totalVotesPolled": "3535313",
+		"totalVotesInState": "7183129",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "815510",
+		"totalVotesPolledForPartyPercentage": "23.067547343049998"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1724740",
+		"totalVotesPolledForPartyPercentage": "13.482944396632501"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "9",
+		"totalVotesPolledForParty": "12666530",
+		"totalVotesPolledForPartyPercentage": "41.150509178070401"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "8",
+		"totalVotesPolledForParty": "5590285",
+		"totalVotesPolledForPartyPercentage": "31.4673826529107"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Lakshadweep",
+		"totalVotesPolled": "43116",
+		"totalVotesInState": "49922",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "20130",
+		"totalVotesPolledForPartyPercentage": "46.688004453103296"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Madhya Pradesh",
+		"totalVotesPolled": "29247970",
+		"totalVotesInState": "48121301",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "10340274",
+		"totalVotesPolledForPartyPercentage": "35.353817717947599"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "8830190",
+		"totalVotesPolledForPartyPercentage": "18.2879310867594"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Manipur",
+		"totalVotesPolled": "1405132",
+		"totalVotesInState": "1774369",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "588872",
+		"totalVotesPolledForPartyPercentage": "41.908660538653997"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Meghalaya",
+		"totalVotesPolled": "1047913",
+		"totalVotesInState": "1567241",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "408925",
+		"totalVotesPolledForPartyPercentage": "39.022800556916501"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Mizoram",
+		"totalVotesPolled": "426706",
+		"totalVotesInState": "702170",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "210485",
+		"totalVotesPolledForPartyPercentage": "49.327874461573103"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Nagaland",
+		"totalVotesPolled": "1036214",
+		"totalVotesInState": "1182972",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "313147",
+		"totalVotesPolledForPartyPercentage": "30.2203019839531"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "NCT OF Delhi",
+		"totalVotesPolled": "8232076",
+		"totalVotesInState": "12711164",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1253078",
+		"totalVotesPolledForPartyPercentage": "15.2218954246778"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Odisha",
+		"totalVotesPolled": "21196117",
+		"totalVotesInState": "29196045",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "5591380",
+		"totalVotesPolledForPartyPercentage": "26.379265598505601"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "194972",
+		"totalVotesPolledForPartyPercentage": "27.164370831586002"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "3",
+		"totalVotesPolledForParty": "4575879",
+		"totalVotesPolledForPartyPercentage": "33.1913066651734"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Rajasthan",
+		"totalVotesPolled": "26782731",
+		"totalVotesInState": "42994657",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "8230164",
+		"totalVotesPolledForPartyPercentage": "30.729368114103099"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Sikkim",
+		"totalVotesPolled": "304635",
+		"totalVotesInState": "370770",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "7189",
+		"totalVotesPolledForPartyPercentage": "2.3598732909875801"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1750990",
+		"totalVotesPolledForPartyPercentage": "4.3747006741999401"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Tripura",
+		"totalVotesPolled": "2000046",
+		"totalVotesInState": "2388822",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "307592",
+		"totalVotesPolledForPartyPercentage": "15.3792462773356"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "6061267",
+		"totalVotesPolledForPartyPercentage": "7.5294504256349599"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "Uttarakhand",
+		"totalVotesPolled": "4343847",
+		"totalVotesInState": "7127057",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1494440",
+		"totalVotesPolledForPartyPercentage": "34.4036058360251"
+	},
+	{
+		"partyName": "Indian National Congress",
+		"partyType": "N",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "4",
+		"totalVotesPolledForParty": "4946911",
+		"totalVotesPolledForPartyPercentage": "9.6883260171152905"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Andaman & Nicobar Islands",
+		"totalVotesPolled": "188764",
+		"totalVotesInState": "269360",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1151",
+		"totalVotesPolledForPartyPercentage": "0.60975609756097604"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "4769",
+		"totalVotesPolledForPartyPercentage": "9.9299068096256795E-3"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Arunachal Pradesh",
+		"totalVotesPolled": "590635",
+		"totalVotesInState": "759344",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "6065",
+		"totalVotesPolledForPartyPercentage": "1.0268609208732999"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "431292",
+		"totalVotesPolledForPartyPercentage": "1.2216392033982899"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Dadra & Nagar Haveli",
+		"totalVotesPolled": "162324",
+		"totalVotesInState": "196597",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1611",
+		"totalVotesPolledForPartyPercentage": "0.992459525393657"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Gujarat",
+		"totalVotesPolled": "25369118",
+		"totalVotesInState": "40603104",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "240466",
+		"totalVotesPolledForPartyPercentage": "0.94786897991487096"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "42738",
+		"totalVotesPolledForPartyPercentage": "0.138845481852755"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Lakshadweep",
+		"totalVotesPolled": "43116",
+		"totalVotesInState": "49922",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "21665",
+		"totalVotesPolledForPartyPercentage": "50.248167733556002"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "4",
+		"totalVotesPolledForParty": "7782275",
+		"totalVotesPolledForPartyPercentage": "16.1176270157506"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Manipur",
+		"totalVotesPolled": "1405132",
+		"totalVotesInState": "1774369",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "61662",
+		"totalVotesPolledForPartyPercentage": "4.3883421628715302"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "2149",
+		"totalVotesPolledForPartyPercentage": "1.55878505579928E-2"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Rajasthan",
+		"totalVotesPolled": "26782731",
+		"totalVotesInState": "42994657",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "12149",
+		"totalVotesPolledForPartyPercentage": "4.5361318828912603E-2"
+	},
+	{
+		"partyName": "Nationalist Congress Party",
+		"partyType": "N",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "27566",
+		"totalVotesPolledForPartyPercentage": "3.4243142635533699E-2"
+	},
+	{
+		"partyName": "Aam Aadmi Party",
+		"partyType": "S",
+		"stateName": "NCT OF Delhi",
+		"totalVotesPolled": "8232076",
+		"totalVotesInState": "12711164",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "2722887",
+		"totalVotesPolledForPartyPercentage": "33.076553229100398"
+	},
+	{
+		"partyName": "AJSU Party",
+		"partyType": "S",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "481667",
+		"totalVotesPolledForPartyPercentage": "3.7653729714002"
+	},
+	{
+		"partyName": "All India Anna Dravida Munnetra Kazhagam",
+		"partyType": "S",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "132657",
+		"totalVotesPolledForPartyPercentage": "18.4823663982813"
+	},
+	{
+		"partyName": "All India Anna Dravida Munnetra Kazhagam",
+		"partyType": "S",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "37",
+		"totalVotesPolledForParty": "17978922",
+		"totalVotesPolledForPartyPercentage": "44.918818608209101"
+	},
+	{
+		"partyName": "All India Forward Bloc",
+		"partyType": "S",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1106038",
+		"totalVotesPolledForPartyPercentage": "2.1661308908363601"
+	},
+	{
+		"partyName": "All India N.R. Congress",
+		"partyType": "S",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "255826",
+		"totalVotesPolledForPartyPercentage": "35.642822212221802"
+	},
+	{
+		"partyName": "All India Trinamool Congress",
+		"partyType": "S",
+		"stateName": "Arunachal Pradesh",
+		"totalVotesPolled": "590635",
+		"totalVotesInState": "759344",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "9135",
+		"totalVotesPolledForPartyPercentage": "1.5466404801611799"
+	},
+	{
+		"partyName": "All India Trinamool Congress",
+		"partyType": "S",
+		"stateName": "Manipur",
+		"totalVotesPolled": "1405132",
+		"totalVotesInState": "1774369",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "52655",
+		"totalVotesPolledForPartyPercentage": "3.7473347699717898"
+	},
+	{
+		"partyName": "All India Trinamool Congress",
+		"partyType": "S",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "34",
+		"totalVotesPolledForParty": "20316262",
+		"totalVotesPolledForPartyPercentage": "39.7885811378314"
+	},
+	{
+		"partyName": "All India United Democratic Front",
+		"partyType": "S",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "3",
+		"totalVotesPolledForParty": "2237612",
+		"totalVotesPolledForPartyPercentage": "14.9784996491692"
+	},
+	{
+		"partyName": "Asom Gana Parishad",
+		"partyType": "S",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "577730",
+		"totalVotesPolledForPartyPercentage": "3.8673052353645501"
+	},
+	{
+		"partyName": "Biju Janata Dal",
+		"partyType": "S",
+		"stateName": "Odisha",
+		"totalVotesPolled": "21196117",
+		"totalVotesInState": "29196045",
+		"seatsWon": "20",
+		"totalVotesPolledForParty": "9489946",
+		"totalVotesPolledForPartyPercentage": "44.772096700541901"
+	},
+	{
+		"partyName": "Bodoland Peoples Front",
+		"partyType": "S",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "330106",
+		"totalVotesPolledForPartyPercentage": "2.2097184879186602"
+	},
+	{
+		"partyName": "Desiya Murpokku Dravida Kazhagam",
+		"partyType": "S",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "2078843",
+		"totalVotesPolledForPartyPercentage": "5.1938137131884403"
+	},
+	{
+		"partyName": "Dravida Munnetra Kazhagam",
+		"partyType": "S",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "60580",
+		"totalVotesPolledForPartyPercentage": "8.4402764754809798"
+	},
+	{
+		"partyName": "Dravida Munnetra Kazhagam",
+		"partyType": "S",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "9570666",
+		"totalVotesPolledForPartyPercentage": "23.911500923901599"
+	},
+	{
+		"partyName": "Haryana Janhit Congress (BL)",
+		"partyType": "S",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "703698",
+		"totalVotesPolledForPartyPercentage": "6.1399723984028904"
+	},
+	{
+		"partyName": "Indian National Lok Dal",
+		"partyType": "S",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "2799899",
+		"totalVotesPolledForPartyPercentage": "24.4299437803089"
+	},
+	{
+		"partyName": "Indian Union Muslim League",
+		"partyType": "S",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "816226",
+		"totalVotesPolledForPartyPercentage": "4.5944877360017804"
+	},
+	{
+		"partyName": "Jammu & Kashmir National Conference",
+		"partyType": "S",
+		"stateName": "Jammu & Kashmir",
+		"totalVotesPolled": "3535313",
+		"totalVotesInState": "7183129",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "396713",
+		"totalVotesPolledForPartyPercentage": "11.2214392332447"
+	},
+	{
+		"partyName": "Jammu & Kashmir National Panthers Party",
+		"partyType": "S",
+		"stateName": "Jammu & Kashmir",
+		"totalVotesPolled": "3535313",
+		"totalVotesInState": "7183129",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "43452",
+		"totalVotesPolledForPartyPercentage": "1.22908494947972"
+	},
+	{
+		"partyName": "Jammu & Kashmir Peoples Democratic Party",
+		"partyType": "S",
+		"stateName": "Jammu & Kashmir",
+		"totalVotesPolled": "3535313",
+		"totalVotesInState": "7183129",
+		"seatsWon": "3",
+		"totalVotesPolledForParty": "732644",
+		"totalVotesPolledForPartyPercentage": "20.723596467978901"
+	},
+	{
+		"partyName": "Janata Dal (Secular)",
+		"partyType": "S",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "3406465",
+		"totalVotesPolledForPartyPercentage": "11.066785397995799"
+	},
+	{
+		"partyName": "Janata Dal (Secular)",
+		"partyType": "S",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "303595",
+		"totalVotesPolledForPartyPercentage": "1.7089182459410299"
+	},
+	{
+		"partyName": "Janata Dal (United)",
+		"partyType": "S",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "5662444",
+		"totalVotesPolledForPartyPercentage": "16.038933199427301"
+	},
+	{
+		"partyName": "Jharkhand Mukti Morcha",
+		"partyType": "S",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "1205031",
+		"totalVotesPolledForPartyPercentage": "9.4201827343358708"
+	},
+	{
+		"partyName": "Jharkhand Vikas Morcha (Prajatantrik)",
+		"partyType": "S",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1567655",
+		"totalVotesPolledForPartyPercentage": "12.2549515858059"
+	},
+	{
+		"partyName": "Kerala Congress (M)",
+		"partyType": "S",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "424194",
+		"totalVotesPolledForPartyPercentage": "2.3877628630863801"
+	},
+	{
+		"partyName": "Lok Jan Shakti Party",
+		"partyType": "S",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "6",
+		"totalVotesPolledForParty": "2295929",
+		"totalVotesPolledForPartyPercentage": "6.5032434513485704"
+	},
+	{
+		"partyName": "Maharashtra Navnirman sena",
+		"partyType": "S",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "708010",
+		"totalVotesPolledForPartyPercentage": "1.4663374274773799"
+	},
+	{
+		"partyName": "Naga Peoples Front",
+		"partyType": "S",
+		"stateName": "Manipur",
+		"totalVotesPolled": "1405132",
+		"totalVotesInState": "1774369",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "281133",
+		"totalVotesPolledForPartyPercentage": "20.007586475861299"
+	},
+	{
+		"partyName": "Naga Peoples Front",
+		"partyType": "S",
+		"stateName": "Nagaland",
+		"totalVotesPolled": "1036214",
+		"totalVotesInState": "1182972",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "713372",
+		"totalVotesPolledForPartyPercentage": "68.844080469864295"
+	},
+	{
+		"partyName": "National Peoples Party",
+		"partyType": "S",
+		"stateName": "Meghalaya",
+		"totalVotesPolled": "1047913",
+		"totalVotesInState": "1567241",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "239301",
+		"totalVotesPolledForPartyPercentage": "22.835960618868199"
+	},
+	{
+		"partyName": "Pattali Makkal Katchi",
+		"partyType": "S",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "22754",
+		"totalVotesPolledForPartyPercentage": "3.1701890215103101"
+	},
+	{
+		"partyName": "People's Party of Arunachal",
+		"partyType": "S",
+		"stateName": "Arunachal Pradesh",
+		"totalVotesPolled": "590635",
+		"totalVotesInState": "759344",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "47018",
+		"totalVotesPolledForPartyPercentage": "7.9605847943315204"
+	},
+	{
+		"partyName": "Rashtriya Janata Dal",
+		"partyType": "S",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "4",
+		"totalVotesPolledForParty": "7224893",
+		"totalVotesPolledForPartyPercentage": "20.4645867049652"
+	},
+	{
+		"partyName": "Rashtriya Janata Dal",
+		"partyType": "S",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "212571",
+		"totalVotesPolledForPartyPercentage": "1.66174784218872"
+	},
+	{
+		"partyName": "Rashtriya Lok Dal",
+		"partyType": "S",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "689409",
+		"totalVotesPolledForPartyPercentage": "0.85640030186536398"
+	},
+	{
+		"partyName": "Revolutionary Socialist Party",
+		"partyType": "S",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1255794",
+		"totalVotesPolledForPartyPercentage": "2.4594219872436098"
+	},
+	{
+		"partyName": "Samajwadi Party",
+		"partyType": "S",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "5",
+		"totalVotesPolledForParty": "17988967",
+		"totalVotesPolledForPartyPercentage": "22.346323835409901"
+	},
+	{
+		"partyName": "Shiromani Akali Dal",
+		"partyType": "S",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "4",
+		"totalVotesPolledForParty": "3636148",
+		"totalVotesPolledForPartyPercentage": "26.3749332855954"
+	},
+	{
+		"partyName": "Shivsena",
+		"partyType": "S",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "18",
+		"totalVotesPolledForParty": "10050652",
+		"totalVotesPolledForPartyPercentage": "20.815591867559"
+	},
+	{
+		"partyName": "Sikkim Democratic Front",
+		"partyType": "S",
+		"stateName": "Sikkim",
+		"totalVotesPolled": "304635",
+		"totalVotesInState": "370770",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "163698",
+		"totalVotesPolledForPartyPercentage": "53.735782165542403"
+	},
+	{
+		"partyName": "Telangana Rashtra Samithi",
+		"partyType": "S",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "11",
+		"totalVotesPolledForParty": "6736270",
+		"totalVotesPolledForPartyPercentage": "14.0261130938304"
+	},
+	{
+		"partyName": "Telugu Desam",
+		"partyType": "S",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "16",
+		"totalVotesPolledForParty": "14099230",
+		"totalVotesPolledForPartyPercentage": "29.357106308970099"
+	},
+	{
+		"partyName": "United Democratic Party",
+		"partyType": "S",
+		"stateName": "Meghalaya",
+		"totalVotesPolled": "1047913",
+		"totalVotesInState": "1567241",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "106817",
+		"totalVotesPolledForPartyPercentage": "10.193308032250799"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Andaman & Nicobar Islands",
+		"totalVotesPolled": "188764",
+		"totalVotesInState": "269360",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "436",
+		"totalVotesPolledForPartyPercentage": "0.230976245470535"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "10",
+		"totalVotesPolledForParty": "15697868",
+		"totalVotesPolledForPartyPercentage": "32.685755158273203"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Arunachal Pradesh",
+		"totalVotesPolled": "590635",
+		"totalVotesInState": "759344",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "980",
+		"totalVotesPolledForPartyPercentage": "0.16592311664564399"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "95013",
+		"totalVotesPolledForPartyPercentage": "0.63601383401881795"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "3",
+		"totalVotesPolledForParty": "2460537",
+		"totalVotesPolledForPartyPercentage": "6.9694973721098803"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Chandigarh",
+		"totalVotesPolled": "450349",
+		"totalVotesInState": "615214",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "3724",
+		"totalVotesPolledForPartyPercentage": "0.82691423762459804"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Chhattisgarh",
+		"totalVotesPolled": "12030690",
+		"totalVotesInState": "17664520",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "286870",
+		"totalVotesPolledForPartyPercentage": "2.3844850129128101"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Dadra & Nagar Haveli",
+		"totalVotesPolled": "162324",
+		"totalVotesInState": "196597",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "348",
+		"totalVotesPolledForPartyPercentage": "0.21438604272935599"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Goa",
+		"totalVotesPolled": "806897",
+		"totalVotesInState": "1060777",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "5195",
+		"totalVotesPolledForPartyPercentage": "0.64382442864454803"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Gujarat",
+		"totalVotesPolled": "25369118",
+		"totalVotesInState": "40603104",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "137196",
+		"totalVotesPolledForPartyPercentage": "0.54079925049030098"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "65305",
+		"totalVotesPolledForPartyPercentage": "0.569805367469711"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Himachal Pradesh",
+		"totalVotesPolled": "3069345",
+		"totalVotesInState": "4810071",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "2535",
+		"totalVotesPolledForPartyPercentage": "8.2590911090151195E-2"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Jammu & Kashmir",
+		"totalVotesPolled": "3535313",
+		"totalVotesInState": "7183129",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "101016",
+		"totalVotesPolledForPartyPercentage": "2.85734247575816"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1087761",
+		"totalVotesPolledForPartyPercentage": "8.5034388254608597"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "215963",
+		"totalVotesPolledForPartyPercentage": "0.70161183951908002"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "731054",
+		"totalVotesPolledForPartyPercentage": "4.11505960034971"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Madhya Pradesh",
+		"totalVotesPolled": "29247970",
+		"totalVotesInState": "48121301",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "480654",
+		"totalVotesPolledForPartyPercentage": "1.64337559153678"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "3294944",
+		"totalVotesPolledForPartyPercentage": "6.8240557458821796"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Manipur",
+		"totalVotesPolled": "1405132",
+		"totalVotesInState": "1774369",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "3408",
+		"totalVotesPolledForPartyPercentage": "0.24253949095173999"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Nagaland",
+		"totalVotesPolled": "1036214",
+		"totalVotesInState": "1182972",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "9695",
+		"totalVotesPolledForPartyPercentage": "0.935617546182545"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "NCT OF Delhi",
+		"totalVotesPolled": "8232076",
+		"totalVotesInState": "12711164",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "34419",
+		"totalVotesPolledForPartyPercentage": "0.41810838481083001"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Odisha",
+		"totalVotesPolled": "21196117",
+		"totalVotesInState": "29196045",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "443737",
+		"totalVotesPolledForPartyPercentage": "2.0934824996483998"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "804",
+		"totalVotesPolledForPartyPercentage": "0.11201687497997199"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "128832",
+		"totalVotesPolledForPartyPercentage": "0.93448765150643598"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Rajasthan",
+		"totalVotesPolled": "26782731",
+		"totalVotesInState": "42994657",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "387630",
+		"totalVotesPolledForPartyPercentage": "1.44731319595451"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Sikkim",
+		"totalVotesPolled": "304635",
+		"totalVotesInState": "370770",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "121956",
+		"totalVotesPolledForPartyPercentage": "40.033482692402401"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "2723146",
+		"totalVotesPolledForPartyPercentage": "6.8035503584514299"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Tripura",
+		"totalVotesPolled": "2000046",
+		"totalVotesInState": "2388822",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "59328",
+		"totalVotesPolledForPartyPercentage": "2.9663317743691899"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "2944443",
+		"totalVotesPolledForPartyPercentage": "3.65765731811647"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "Uttarakhand",
+		"totalVotesPolled": "4343847",
+		"totalVotesInState": "7127057",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "31833",
+		"totalVotesPolledForPartyPercentage": "0.73282967839336899"
+	},
+	{
+		"partyName": "Unrecognised",
+		"partyType": "U",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "827276",
+		"totalVotesPolledForPartyPercentage": "1.6201867375691801"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Andaman & Nicobar Islands",
+		"totalVotesPolled": "188764",
+		"totalVotesInState": "269360",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "3511",
+		"totalVotesPolledForPartyPercentage": "1.85999449047488"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Andhra Pradesh",
+		"totalVotesPolled": "48026634",
+		"totalVotesInState": "64934138",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "949666",
+		"totalVotesPolledForPartyPercentage": "1.97737363813587"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Arunachal Pradesh",
+		"totalVotesPolled": "590635",
+		"totalVotesInState": "759344",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "2362",
+		"totalVotesPolledForPartyPercentage": "0.39990857297654198"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Assam",
+		"totalVotesPolled": "14938826",
+		"totalVotesInState": "18837713",
+		"seatsWon": "1",
+		"totalVotesPolledForParty": "1436900",
+		"totalVotesPolledForPartyPercentage": "9.6185603875431696"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Bihar",
+		"totalVotesPolled": "35304368",
+		"totalVotesInState": "63800160",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1533264",
+		"totalVotesPolledForPartyPercentage": "4.3429866808549002"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Chandigarh",
+		"totalVotesPolled": "450349",
+		"totalVotesInState": "615214",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "8496",
+		"totalVotesPolledForPartyPercentage": "1.8865368858374301"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Chhattisgarh",
+		"totalVotesPolled": "12030690",
+		"totalVotesInState": "17664520",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "516430",
+		"totalVotesPolledForPartyPercentage": "4.2926049960559203"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Dadra & Nagar Haveli",
+		"totalVotesPolled": "162324",
+		"totalVotesInState": "196597",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "2786",
+		"totalVotesPolledForPartyPercentage": "1.7163204455287"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Goa",
+		"totalVotesPolled": "806897",
+		"totalVotesInState": "1060777",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "17152",
+		"totalVotesPolledForPartyPercentage": "2.1256740327451999"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Gujarat",
+		"totalVotesPolled": "25369118",
+		"totalVotesInState": "40603104",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "542006",
+		"totalVotesPolledForPartyPercentage": "2.1364794787110899"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Haryana",
+		"totalVotesPolled": "11460931",
+		"totalVotesInState": "16097233",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "191278",
+		"totalVotesPolledForPartyPercentage": "1.6689569110921301"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Himachal Pradesh",
+		"totalVotesPolled": "3069345",
+		"totalVotesInState": "4810071",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "28507",
+		"totalVotesPolledForPartyPercentage": "0.92876493193173104"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Jammu & Kashmir",
+		"totalVotesPolled": "3535313",
+		"totalVotesInState": "7183129",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "223498",
+		"totalVotesPolledForPartyPercentage": "6.3218730562187799"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Jharkhand",
+		"totalVotesPolled": "12792013",
+		"totalVotesInState": "20349796",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "426224",
+		"totalVotesPolledForPartyPercentage": "3.3319540872886901"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Karnataka",
+		"totalVotesPolled": "30780980",
+		"totalVotesInState": "46209813",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "483513",
+		"totalVotesPolledForPartyPercentage": "1.57081743336307"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Kerala",
+		"totalVotesPolled": "17765332",
+		"totalVotesInState": "24326650",
+		"seatsWon": "2",
+		"totalVotesPolledForParty": "2043666",
+		"totalVotesPolledForPartyPercentage": "11.503674685055101"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Madhya Pradesh",
+		"totalVotesPolled": "29247970",
+		"totalVotesInState": "48121301",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "548867",
+		"totalVotesPolledForPartyPercentage": "1.8765986152201299"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Maharashtra",
+		"totalVotesPolled": "48284248",
+		"totalVotesInState": "80798823",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1577114",
+		"totalVotesPolledForPartyPercentage": "3.2663116136757502"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Manipur",
+		"totalVotesPolled": "1405132",
+		"totalVotesInState": "1774369",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "43013",
+		"totalVotesPolledForPartyPercentage": "3.06113589328262"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Meghalaya",
+		"totalVotesPolled": "1047913",
+		"totalVotesInState": "1567241",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "180658",
+		"totalVotesPolledForPartyPercentage": "17.2397899443942"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Mizoram",
+		"totalVotesPolled": "426706",
+		"totalVotesInState": "702170",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "204331",
+		"totalVotesPolledForPartyPercentage": "47.885663665380797"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "NCT OF Delhi",
+		"totalVotesPolled": "8232076",
+		"totalVotesInState": "12711164",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "261664",
+		"totalVotesPolledForPartyPercentage": "3.17859067384703"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Odisha",
+		"totalVotesPolled": "21196117",
+		"totalVotesInState": "29196045",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "333196",
+		"totalVotesPolledForPartyPercentage": "1.5719671673825899"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Puducherry",
+		"totalVotesPolled": "717749",
+		"totalVotesInState": "901357",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "26771",
+		"totalVotesPolledForPartyPercentage": "3.7298554229960601"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Punjab",
+		"totalVotesPolled": "13786378",
+		"totalVotesInState": "19608161",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "498039",
+		"totalVotesPolledForPartyPercentage": "3.6125442084933401"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Rajasthan",
+		"totalVotesPolled": "26782731",
+		"totalVotesInState": "42994657",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1806700",
+		"totalVotesPolledForPartyPercentage": "6.7457646496169499"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Tamil Nadu",
+		"totalVotesPolled": "40025367",
+		"totalVotesInState": "55114867",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "866317",
+		"totalVotesPolledForPartyPercentage": "2.1644198790232201"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Tripura",
+		"totalVotesPolled": "2000046",
+		"totalVotesInState": "2388822",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "17764",
+		"totalVotesPolledForPartyPercentage": "0.88817957186984697"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Uttar Pradesh",
+		"totalVotesPolled": "80500789",
+		"totalVotesInState": "138810557",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "1414869",
+		"totalVotesPolledForPartyPercentage": "1.7575840157293401"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "Uttarakhand",
+		"totalVotesPolled": "4343847",
+		"totalVotesInState": "7127057",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "76158",
+		"totalVotesPolledForPartyPercentage": "1.75323854638527"
+	},
+	{
+		"partyName": "Independent",
+		"partyType": "Z",
+		"stateName": "West Bengal",
+		"totalVotesPolled": "51060534",
+		"totalVotesInState": "62833113",
+		"seatsWon": "0",
+		"totalVotesPolledForParty": "473000",
+		"totalVotesPolledForPartyPercentage": "0.92635145570549604"
 	}
 ]
