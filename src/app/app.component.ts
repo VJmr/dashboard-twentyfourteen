@@ -10,5 +10,8 @@ export class AppComponent {
   constructor(private resultsService: ResultsService){
 
     this.resultsService.getResults().subscribe(d=>console.log(d));
+    console.log(this.resultsService.getSummary());
+
+
   }
 }
