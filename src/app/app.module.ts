@@ -10,13 +10,19 @@ import { FooterComponent } from './layout/footer.component';
 
 import {ResultsService} from './shared/services/results.service';
 import { SidenavComponent } from './layout/sidenav.component';
+import { SummaryComponent } from './components/summary/summary.component';
+import { PartyComponent } from './components/party/party.component';
+import { StateComponent } from './components/state/state.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    SidenavComponent
+    SidenavComponent,
+    SummaryComponent,
+    PartyComponent,
+    StateComponent
   ],
   imports: [
     BrowserModule,

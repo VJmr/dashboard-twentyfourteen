@@ -5,3 +5,19 @@
 .menu-items{
     list-style: none;
 }
+
+.menu-items a{
+  padding: 1rem 0rem;
+  text-align: center;
+  border: 0.5px solid white;
+  background: darkgray;
+  color: white;
+  text-decoration: none;
+  display: inherit;
+}
+
+.menu-items a:hover{
+  color: darkgray;
+  background: white;
+  border: 0.5px solid darkgray;
+}
