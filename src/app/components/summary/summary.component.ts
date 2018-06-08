@@ -2,8 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { ResultsService } from '../../shared/services/results.service';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map'
-import { Results } from '../../shared/models/Results';
-import { groupBy, map, sumBy, chain, uniqBy, pluck } from 'lodash';
+import { Results, States, Parties } from '../../shared/models';
+import { groupBy, map, sumBy, chain, uniqBy, pluck, sort } from 'lodash';
 
 @Component({
   selector: 'app-summary',
@@ -17,6 +17,8 @@ export class SummaryComponent implements OnInit {
   optionsVotesPolled: any;
   constructor(private resultsService: ResultsService){ }
   ngOnInit(){
+    console.log(States);
+    console.log(Parties);
     this.results= this.resultsService.getResults().map(res=>{
       return res.map(item=>{
         return new Results(
@@ -32,7 +34,7 @@ export class SummaryComponent implements OnInit {
       })
     });
     this.resultsSummary = this.results.map(data=>{
-      console.log(chain(data).uniqBy('partyName').map('partyName').value());
+      //var data = chain(data).uniqBy('stateName').map('stateName').sort().value();
       return chain(data).groupBy('partyName').map((party, _partyName)=>({
         partyName: _partyName,
         seatsWon: sumBy(party, 'seatsWon', Number),
