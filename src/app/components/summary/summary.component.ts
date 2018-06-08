@@ -3,7 +3,7 @@ import { ResultsService } from '../../shared/services/results.service';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map'
 import { Results, States, Parties } from '../../shared/models';
-import { groupBy, map, sumBy, chain, uniqBy, pluck, sort } from 'lodash';
+import { groupBy, map, sumBy, chain, uniqBy, pluck, sort, find } from 'lodash';
 
 @Component({
   selector: 'app-summary',
@@ -15,10 +15,10 @@ export class SummaryComponent implements OnInit {
   resultsSummary: Observable<any>;
   optionsSeatsWons: any;
   optionsVotesPolled: any;
+  states = States;
+  parties = Parties;
   constructor(private resultsService: ResultsService){ }
   ngOnInit(){
-    console.log(States);
-    console.log(Parties);
     this.results= this.resultsService.getResults().map(res=>{
       return res.map(item=>{
         return new Results(
@@ -35,6 +35,34 @@ export class SummaryComponent implements OnInit {
     });
     this.resultsSummary = this.results.map(data=>{
       //var data = chain(data).uniqBy('stateName').map('stateName').sort().value();
+
+      let xCategoriesByState = this.states.map(state=>{
+        return state.stateName;
+      })
+
+      let seriesByState = chain(data).groupBy('partyName').map((partyByState,_partyName)=>({
+        name: _partyName,
+        data : this.states.map(state=>{
+          let x = find(partyByState, ['stateName', state.stateName]);
+          return !x?0:x.seatsWon;
+        })
+      })).value();
+
+      let xCategoriesByParty = this.parties.map(party=>{
+        return party.partyName;
+      })
+
+      let seriesByParty = chain(data).groupBy('stateName').map((stateByParty,_stateName)=>({
+        name: _stateName,
+        data : this.parties.map(party=>{
+          let x = find(stateByParty, ['partyName', party.partyName]);
+          return !x?0:x.seatsWon;
+        })
+      })).value();
+
+      console.log(seriesByState);
+      console.log(seriesByParty);
+
       return chain(data).groupBy('partyName').map((party, _partyName)=>({
         partyName: _partyName,
         seatsWon: sumBy(party, 'seatsWon', Number),
