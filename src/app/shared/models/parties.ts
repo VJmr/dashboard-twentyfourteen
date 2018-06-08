@@ -9,11 +9,11 @@ export const Parties=[
 	},
 	{
     "partyName": "Communist Party of India",
-    "color":"#FF000"
+    "color":"#FF0000"
 	},
 	{
     "partyName": "Communist Party of India (Marxist)",
-    "color":"#FF000"
+    "color":"#FF0000"
 	},
 	{
     "partyName": "Indian National Congress",
@@ -25,27 +25,27 @@ export const Parties=[
 	},
 	{
     "partyName": "Aam Aadmi Party",
-    "color": "#007FFF"
+    "color": "#87CEEB"
 	},
 	{
     "partyName": "AJSU Party",
-    "color": "#007FFF"
+    "color": "#ADFF2F"
 	},
 	{
     "partyName": "All India Anna Dravida Munnetra Kazhagam",
-    "color": "#007FFF"
+    "color": "#FF0000"
 	},
 	{
     "partyName": "All India Forward Bloc",
-    "color": "#007FFF"
+    "color": "#FFFF99"
 	},
 	{
     "partyName": "All India N.R. Congress",
-    "color": "#007FFF"
+    "color": "#AAAAAA"
 	},
 	{
     "partyName": "All India Trinamool Congress",
-    "color": "#007FFF"
+    "color": "#00FF00"
 	},
 	{
     "partyName": "All India United Democratic Front",
@@ -53,138 +53,138 @@ export const Parties=[
 	},
 	{
     "partyName": "Asom Gana Parishad",
-    "color": "#007FFF"
+    "color": "#f4425c"
 	},
 	{
     "partyName": "Biju Janata Dal",
-    "color": "#007FFF"
+    "color": "#006400"
 	},
 	{
     "partyName": "Bodoland Peoples Front",
-    "color": "#007FFF"
+    "color": "#007F00"
 	},
 	{
     "partyName": "Desiya Murpokku Dravida Kazhagam",
-    "color": "#007FFF"
+    "color": "#7F7F00"
 	},
 	{
     "partyName": "Dravida Munnetra Kazhagam",
-    "color": "#007FFF"
+    "color": "#000000"
 	},
 	{
     "partyName": "Haryana Janhit Congress (BL)",
-    "color": "#007FFF"
+    "color": "#777777"
 	},
 	{
     "partyName": "Indian National Lok Dal",
-    "color": "#007FFF"
+    "color": "#007700"
 	},
 	{
     "partyName": "Indian Union Muslim League",
-    "color": "#007FFF"
+    "color": "#00FF00"
 	},
 	{
     "partyName": "Jammu & Kashmir National Conference",
-    "color": "#007FFF"
+    "color": "#002200"
 	},
 	{
     "partyName": "Jammu & Kashmir National Panthers Party",
-    "color": "#007FFF"
+    "color": "#005200"
 	},
 	{
     "partyName": "Jammu & Kashmir Peoples Democratic Party",
-    "color": "#007FFF"
+    "color": "#007860"
 	},
 	{
     "partyName": "Janata Dal (Secular)",
-    "color": "#007FFF"
+    "color": "#0000FF"
 	},
 	{
     "partyName": "Janata Dal (United)",
-    "color": "#007FFF"
+    "color": "#000055"
 	},
 	{
     "partyName": "Jharkhand Mukti Morcha",
-    "color": "#007FFF"
+    "color": "#7F00FF"
 	},
 	{
     "partyName": "Jharkhand Vikas Morcha (Prajatantrik)",
-    "color": "#007FFF"
+    "color": "#7F0F0F"
 	},
 	{
     "partyName": "Kerala Congress (M)",
-    "color": "#007FFF"
+    "color": "#007F00"
 	},
 	{
     "partyName": "Lok Jan Shakti Party",
-    "color": "#007FFF"
+    "color": "#F000FF"
 	},
 	{
     "partyName": "Maharashtra Navnirman sena",
-    "color": "#007FFF"
+    "color": "#227F00"
 	},
 	{
     "partyName": "Naga Peoples Front",
-    "color": "#007FFF"
+    "color": "#F0000F"
 	},
 	{
     "partyName": "National Peoples Party",
-    "color": "#007FFF"
+    "color": "#E0E0E0"
 	},
 	{
     "partyName": "Pattali Makkal Katchi",
-    "color": "#007FFF"
+    "color": "#0A0A0A"
 	},
 	{
     "partyName": "People's Party of Arunachal",
-    "color": "#007FFF"
+    "color": "#880800"
 	},
 	{
     "partyName": "Rashtriya Janata Dal",
-    "color": "#007FFF"
+    "color": "#00FF00"
 	},
 	{
     "partyName": "Rashtriya Lok Dal",
-    "color": "#007FFF"
+    "color": "#007F00"
 	},
 	{
     "partyName": "Revolutionary Socialist Party",
-    "color": "#007FFF"
+    "color": "#ff0000"
 	},
 	{
     "partyName": "Samajwadi Party",
-    "color": "#007FFF"
+    "color": "#ed0e0e"
 	},
 	{
     "partyName": "Shiromani Akali Dal",
-    "color": "#007FFF"
+    "color": "#ffa500"
 	},
 	{
     "partyName": "Shivsena",
-    "color": "#007FFF"
+    "color": "#CC5500"
 	},
 	{
     "partyName": "Sikkim Democratic Front",
-    "color": "#007FFF"
+    "color": "#f44268"
 	},
 	{
     "partyName": "Telangana Rashtra Samithi",
-    "color": "#007FFF"
+    "color": "#ffc0db"
 	},
 	{
     "partyName": "Telugu Desam",
-    "color": "#007FFF"
+    "color": "#FFFF00"
 	},
 	{
     "partyName": "United Democratic Party",
-    "color": "#007FFF"
+    "color": "#ff0000"
 	},
 	{
     "partyName": "Unrecognised",
-    "color": "#007FFF"
+    "color": "#777777"
 	},
 	{
     "partyName": "Independent",
-    "color": "#007FFF"
+    "color": "#000000"
 	}
 ]

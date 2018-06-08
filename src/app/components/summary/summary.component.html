@@ -1,2 +1,16 @@
-<chart [options]="optionsSeatsWons"></chart>
-<chart [options]="optionsVotesPolled"></chart>
+<div>
+    <div class="row">
+        <div class="col-6">
+            <chart [options]="optionsSeatsWons"></chart>
+        </div>
+        <div class="col-6">
+            <chart [options]="optionsVotesPolled"></chart>
+        </div>
+    </div>
+    <div class="col-12">
+        <chart [options]="stackedColumnChartByState"></chart>
+    </div>
+    <div class="col-12">
+        <chart [options]="stackedColumnChartByVotes"></chart>
+    </div>
+</div>

@@ -15,6 +15,8 @@ export class SummaryComponent implements OnInit {
   resultsSummary: Observable<any>;
   optionsSeatsWons: any;
   optionsVotesPolled: any;
+  stackedColumnChartByVotes: any;
+  stackedColumnChartByState: any;
   states = States;
   parties = Parties;
   constructor(private resultsService: ResultsService){ }
@@ -33,9 +35,11 @@ export class SummaryComponent implements OnInit {
         )
       })
     });
+    
     this.resultsSummary = this.results.map(data=>{
       //var data = chain(data).uniqBy('stateName').map('stateName').sort().value();
-
+      
+      
       let xCategoriesByState = this.states.map(state=>{
         return state.stateName;
       })
@@ -47,21 +51,86 @@ export class SummaryComponent implements OnInit {
           return !x?0:x.seatsWon;
         })
       })).value();
+      this.stackedColumnChartByState = {
+      chart: {
+        type: 'column',
+        height: 800,
+        width: 1200
+    },
+    title: {
+        text: 'Seats won by parties by states'
+    },
+    xAxis: {
+        categories:xCategoriesByState
+    },
+    yAxis: {
+        min: 0,
+        title: {
+            text: 'Total no of seats'
+        }
+    },
+    tooltip: {
+        headerFormat: '<b>{point.x}</b><br/>',
+        pointFormat: '{series.name}: {point.y}<br/>Total: {point.stackTotal}'
+    },
+    plotOptions: {
+        column: {
+            stacking: 'normal',
+            dataLabels: {
+                enabled: false,
+                color: 'white'
+            }
+        }
+    },
+    series:seriesByState
+  }
+  // let xCategoriesByVotes = this.parties.map(party=>{
+  //       return party.partyName;
+  //     })
 
-      let xCategoriesByParty = this.parties.map(party=>{
-        return party.partyName;
-      })
-
-      let seriesByParty = chain(data).groupBy('stateName').map((stateByParty,_stateName)=>({
-        name: _stateName,
-        data : this.parties.map(party=>{
-          let x = find(stateByParty, ['partyName', party.partyName]);
-          return !x?0:x.seatsWon;
+      let seriesByVotes = chain(data).groupBy('partyName').map((partyByVotes,_partyName)=>({
+        name: _partyName,
+        data : this.states.map(state=>{
+          let x = find(partyByVotes, ['stateName', state.stateName]);
+          return !x?0:x.totalVotesPolledInStateForParty;
         })
       })).value();
+  this.stackedColumnChartByVotes = {
+      chart: {
+        type: 'column',
+        height: 800,
+        width: 1200
+    },
+    title: {
+        text: 'Seats won by parties by states'
+    },
+    xAxis: {
+        categories:xCategoriesByState
+    },
+    yAxis: {
+        min: 0,
+        title: {
+            text: 'Total no of votes'
+        }
+    },
+    tooltip: {
+        headerFormat: '<b>{point.x}</b><br/>',
+        pointFormat: '{series.name}: {point.y}<br/>Total: {point.stackTotal}'
+    },
+    plotOptions: {
+        column: {
+            stacking: 'normal',
+            dataLabels: {
+                enabled: false,
+                color: 'white'
+            }
+        }
+    },
+    series:seriesByVotes
+    }
+      
 
-      console.log(seriesByState);
-      console.log(seriesByParty);
+      
 
       return chain(data).groupBy('partyName').map((party, _partyName)=>({
         partyName: _partyName,
@@ -77,6 +146,13 @@ export class SummaryComponent implements OnInit {
       this.optionsVotesPolled = {
         chart: { type: 'pie' },
         title: { text : 'Votes share'},
+        plotOptions: {
+          pie: {
+            colors: this.parties.map(party=>{
+            return party.color;
+          })
+          } 
+        },
         series: [{
           data:parties.map(party=>{
             return {
@@ -89,6 +165,13 @@ export class SummaryComponent implements OnInit {
       this.optionsSeatsWons = {
         chart: { type: 'pie' },
         title: { text : 'Seats share'},
+        plotOptions: {
+          pie: {
+            colors: this.parties.map(party=>{
+            return party.color;
+          })
+          } 
+        },
         series: [{
           data:parties.map(party=>{
             return {
