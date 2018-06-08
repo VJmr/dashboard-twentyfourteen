@@ -3,7 +3,7 @@ import { ResultsService } from '../../shared/services/results.service';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map'
 import { Results } from '../../shared/models/Results';
-import { groupBy, map, sumBy, chain } from 'lodash';
+import { groupBy, map, sumBy, chain, uniqBy, pluck } from 'lodash';
 
 @Component({
   selector: 'app-summary',
@@ -13,8 +13,6 @@ import { groupBy, map, sumBy, chain } from 'lodash';
 export class SummaryComponent implements OnInit {
   results: Observable<Results>;
   resultsSummary: Observable<any>;
-  seatsWonSummary: Observable<any>;
-  votesPolledSummary: any;
   optionsSeatsWons: any;
   optionsVotesPolled: any;
   constructor(private resultsService: ResultsService){ }
@@ -34,6 +32,7 @@ export class SummaryComponent implements OnInit {
       })
     });
     this.resultsSummary = this.results.map(data=>{
+      console.log(chain(data).uniqBy('partyName').map('partyName').value());
       return chain(data).groupBy('partyName').map((party, _partyName)=>({
         partyName: _partyName,
         seatsWon: sumBy(party, 'seatsWon', Number),
@@ -43,36 +42,33 @@ export class SummaryComponent implements OnInit {
       })).value();
     })
 
-    this.seatsWonSummary = this.resultsSummary.map(d=>{
-      return d.map(party=>({
-        name: party.partyName,
-        y: party.seatsWon
-      }))
-    })
+    this.resultsSummary.subscribe(parties=>{
 
-    this.votesPolledSummary = this.resultsSummary.map(d=>{
-      return d.map(party=>({
-        name: party.partyName,
-        y: party.totalVotesPolledInStateForParty
-      }))
-    })
-    this.seatsWonSummary.subscribe(d=>{
-      this.optionsSeatsWons = {
-        chart: { type: 'pie' },
-        title: { text : 'Seats share'},
-        series: [{
-          data:d
-        }]
-      };
-    })
-    this.votesPolledSummary.subscribe(d=>{
       this.optionsVotesPolled = {
         chart: { type: 'pie' },
         title: { text : 'Votes share'},
         series: [{
-          data:d
+          data:parties.map(party=>{
+            return {
+              name: party.partyName,
+              y: party.totalVotesPolledInStateForParty
+            }
+          })
+        }]
+      };
+      this.optionsSeatsWons = {
+        chart: { type: 'pie' },
+        title: { text : 'Seats share'},
+        series: [{
+          data:parties.map(party=>{
+            return {
+              name: party.partyName,
+              y: party.seatsWon
+            }
+          })
         }]
       };
     })
+
   }
 }
