@@ -1,6 +1,8 @@
 .navigation-section{
     background: white;
     margin: 5rem 0rem;
+    position: fixed;
+    width:10%;
 }
 .menu-items{
     list-style: none;
