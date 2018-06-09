@@ -55,10 +55,10 @@ export class SummaryComponent implements OnInit {
       chart: {
         type: 'column',
         height: 800,
-        width: 1200
+        width: 1150
     },
     title: {
-        text: 'Seats won by parties by states'
+        text: 'SEATS WON BY PARTIES BY STATE'
     },
     xAxis: {
         categories:xCategoriesByState
@@ -66,7 +66,7 @@ export class SummaryComponent implements OnInit {
     yAxis: {
         min: 0,
         title: {
-            text: 'Total no of seats'
+            text: 'TOTAL NO OF SEATS'
         }
     },
     tooltip: {
@@ -99,10 +99,10 @@ export class SummaryComponent implements OnInit {
       chart: {
         type: 'column',
         height: 800,
-        width: 1200
+        width: 1150
     },
     title: {
-        text: 'Seats won by parties by states'
+        text: 'VOTES WON BY PARTIES BY STATE'
     },
     xAxis: {
         categories:xCategoriesByState
@@ -110,7 +110,7 @@ export class SummaryComponent implements OnInit {
     yAxis: {
         min: 0,
         title: {
-            text: 'Total no of votes'
+            text: 'TOTAL NO OF VOTES'
         }
     },
     tooltip: {
@@ -145,7 +145,7 @@ export class SummaryComponent implements OnInit {
 
       this.optionsVotesPolled = {
         chart: { type: 'pie' },
-        title: { text : 'Votes share'},
+        title: { text : 'VOTES SHARE'},
         plotOptions: {
           pie: {
             colors: this.parties.map(party=>{
@@ -164,7 +164,7 @@ export class SummaryComponent implements OnInit {
       };
       this.optionsSeatsWons = {
         chart: { type: 'pie' },
-        title: { text : 'Seats share'},
+        title: { text : 'SEATS SHARE'},
         plotOptions: {
           pie: {
             colors: this.parties.map(party=>{

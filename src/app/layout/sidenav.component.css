@@ -10,14 +10,14 @@
   padding: 1rem 0rem;
   text-align: center;
   border: 0.5px solid white;
-  background: darkgray;
+  background:#2b908f;
   color: white;
   text-decoration: none;
   display: inherit;
 }
 
 .menu-items a:hover{
-  color: darkgray;
+  color:#2b908f;
   background: white;
-  border: 0.5px solid darkgray;
+  border: 0.5px solid #2b908f;
 }
