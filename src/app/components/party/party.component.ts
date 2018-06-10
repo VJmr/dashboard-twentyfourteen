@@ -13,8 +13,20 @@ export class PartyComponent implements OnInit {
   results: Observable<Results>;
   states = States;
   parties = Parties;
-  constructor(private resultsService: ResultsService) { }
+  selectedParty : string = 'Bahujan Samaj Party';
+  partyPieOptions: any;
+  constructor(private resultsService: ResultsService) {
+    this.getOptions(this.selectedParty);
+   }
+  
+  onPartySelected(){
+    console.log(this.selectedParty);
+  }
 
+  getOptions(selectedParty: string){
+
+  }
+  
   ngOnInit() {
     this.results= this.resultsService.getResults().map(res=>{
       return res.map(item=>{

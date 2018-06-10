@@ -2,4 +2,10 @@
     height: 5rem;
     background: white;
     box-shadow: 0 1px 6px rgba(57,73,76,0.35);
+    font-style: italic;
+    text-align: center;
+    color: #2b908f;
+}
+.header h1{
+    padding-top: 1rem;
 }

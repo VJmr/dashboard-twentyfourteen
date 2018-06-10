@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClientModule } from '@angular/common/http';
 import { ChartModule } from 'angular2-highcharts';
+import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { routing } from './app-routing.module';
 import { HeaderComponent } from './layout/header.component';
@@ -28,6 +29,7 @@ import { StateComponent } from './components/state/state.component';
     BrowserModule,
     HttpClientModule,
     routing,
+    FormsModule,
     NgbModule.forRoot(),
     ChartModule.forRoot(require('highcharts'))
   ],
