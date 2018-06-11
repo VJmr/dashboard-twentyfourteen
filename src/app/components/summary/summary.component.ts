@@ -3,7 +3,7 @@ import { ResultsService } from '../../shared/services/results.service';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map'
 import { Results, States, Parties } from '../../shared/models';
-import { groupBy, map, sumBy, chain, uniqBy, pluck, sort, find } from 'lodash';
+import { groupBy, map, sumBy, chain, uniqBy, sort, find } from 'lodash';
 
 @Component({
   selector: 'app-summary',
@@ -35,11 +35,11 @@ export class SummaryComponent implements OnInit {
         )
       })
     });
-    
+
     this.resultsSummary = this.results.map(data=>{
       //var data = chain(data).uniqBy('stateName').map('stateName').sort().value();
-      
-      
+
+
       let xCategoriesByState = this.states.map(state=>{
         return state.stateName;
       })
@@ -128,9 +128,9 @@ export class SummaryComponent implements OnInit {
     },
     series:seriesByVotes
     }
-      
 
-      
+
+
 
       return chain(data).groupBy('partyName').map((party, _partyName)=>({
         partyName: _partyName,
@@ -151,7 +151,7 @@ export class SummaryComponent implements OnInit {
             colors: this.parties.map(party=>{
             return party.color;
           })
-          } 
+          }
         },
         series: [{
           data:parties.map(party=>{
@@ -170,7 +170,7 @@ export class SummaryComponent implements OnInit {
             colors: this.parties.map(party=>{
             return party.color;
           })
-          } 
+          }
         },
         series: [{
           data:parties.map(party=>{

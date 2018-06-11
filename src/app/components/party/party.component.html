@@ -3,7 +3,11 @@
     <option *ngFor="let party of parties" [ngValue]="party.partyName">{{party.partyName}}</option>
   </select>
 </div>
-<div class="row mt-3">
-  <div class="col-4"></div>
-  <div class="col-8"></div>
+<div class="row">
+  <div class="col-4 mt-5">
+    <chart [options]="optionsPartyVotes"></chart>
+  </div>
+  <div class="col-8">
+
+  </div>
 </div>
