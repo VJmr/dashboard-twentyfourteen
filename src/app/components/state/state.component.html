@@ -1,5 +1,15 @@
 <div class="row">
-  <select class="dropdown form-control">
-    <option *ngFor="let state of states">{{state.stateName}}</option>
+  <select [(ngModel)]="selectedState" (change)="onStateSelected()" class="dropdown form-control">
+    <option *ngFor="let state of states" [ngValue]="state.stateName">{{state.stateName}}</option>
   </select>
+</div>
+<div class="row">
+  <div class="col-4 mt-5">
+    <chart [options]="optionsStateVotes"></chart>
+  </div>
+  <div class="col-1"></div>
+  <div class="col-7">
+    <chart class="mx-2" *ngFor="let options of individualStateScoreOptions" [options]="options">
+    </chart>
+  </div>
 </div>
