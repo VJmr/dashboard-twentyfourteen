@@ -60,6 +60,9 @@ export class SummaryComponent implements OnInit {
     title: {
         text: 'SEATS WON BY PARTIES BY STATE'
     },
+    credits: {
+      enabled: false
+    },
     xAxis: {
         categories:xCategoriesByState
     },
@@ -100,6 +103,9 @@ export class SummaryComponent implements OnInit {
         type: 'column',
         height: 800,
         width: 1150
+    },
+    credits: {
+      enabled: false
     },
     title: {
         text: 'VOTES WON BY PARTIES BY STATE'
@@ -146,6 +152,9 @@ export class SummaryComponent implements OnInit {
       this.optionsVotesPolled = {
         chart: { type: 'pie' },
         title: { text : 'VOTES SHARE'},
+        credits: {
+          enabled: false
+        },
         plotOptions: {
           pie: {
             colors: this.parties.map(party=>{
@@ -165,6 +174,9 @@ export class SummaryComponent implements OnInit {
       this.optionsSeatsWons = {
         chart: { type: 'pie' },
         title: { text : 'SEATS SHARE'},
+        credits: {
+          enabled: false
+        },
         plotOptions: {
           pie: {
             colors: this.parties.map(party=>{

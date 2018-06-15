@@ -39,6 +39,9 @@ export class PartyComponent implements OnInit {
 
       let partydata = find(data,['partyName',selectedParty]);
       this.optionsPartyVotes = {
+        credits: {
+          enabled: false
+        },
         chart: { type: 'pie' },
         title: { text : 'TOTAL NO OF VOTES IN CONTESTED STATES TO TOTAL VOTES POLLED TO PARTY'},
         plotOptions: {
