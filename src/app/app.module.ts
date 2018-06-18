@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { routing } from './app-routing.module';
 import { HeaderComponent } from './layout/header.component';
 import { FooterComponent } from './layout/footer.component';
+import { HighchartsStatic } from 'angular2-highcharts/dist/HighchartsService';
 
 import {ResultsService} from './shared/services/results.service';
 import { SidenavComponent } from './layout/sidenav.component';
