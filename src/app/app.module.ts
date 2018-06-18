@@ -15,6 +15,16 @@ import { SummaryComponent } from './components/summary/summary.component';
 import { PartyComponent } from './components/party/party.component';
 import { StateComponent } from './components/state/state.component';
 
+declare var require: any;
+
+export function highchartsFactory() {
+  const hc = require('highcharts');
+  const dd = require('highcharts/modules/drilldown');
+  dd(hc);
+
+  return hc;
+}
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -31,9 +41,12 @@ import { StateComponent } from './components/state/state.component';
     routing,
     FormsModule,
     NgbModule.forRoot(),
-    ChartModule.forRoot(require('highcharts'))
+    ChartModule
   ],
-  providers: [ResultsService],
+  providers: [ResultsService,{
+          provide: HighchartsStatic,
+          useFactory: highchartsFactory
+        }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
