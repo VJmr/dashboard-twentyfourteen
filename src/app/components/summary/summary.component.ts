@@ -162,7 +162,9 @@ export class SummaryComponent implements OnInit {
           })
           }
         },
+
         series: [{
+          name : 'Votes polled for party',
           data:parties.map(party=>{
             return {
               name: party.partyName,
@@ -185,6 +187,7 @@ export class SummaryComponent implements OnInit {
           }
         },
         series: [{
+          name : 'Seats won by party',
           data:parties.map(party=>{
             return {
               name: party.partyName,

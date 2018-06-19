@@ -181,7 +181,7 @@ export const Parties=[
 	},
 	{
     "partyName": "Unrecognised",
-    "color": "#777777"
+    "color": "#00F0FF"
 	},
 	{
     "partyName": "Independent",
