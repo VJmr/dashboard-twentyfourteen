@@ -63,6 +63,7 @@ export class StateComponent implements OnInit {
         chart: { type: 'pie' },
         title: { text : 'EACH PARTY VOTE SHARE'},
         series:[{
+          name:'Total votes polled for party',
           data: this.partyResults.map((result,index)=>{
             return {
               name: result.partyName,
@@ -123,7 +124,6 @@ export class StateComponent implements OnInit {
         ]
         }
       })
-      console.log(this.individualStateScoreOptions);
     })
   }
 }

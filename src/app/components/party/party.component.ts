@@ -30,7 +30,6 @@ export class PartyComponent implements OnInit {
   getOptions(selectedParty: string){
     this.results.subscribe((data)=>{
       this.partyResults = groupBy(data, 'partyName')[selectedParty];
-      console.log(this.partyResults);
       data = chain(data).groupBy('partyName').map((party, _partyName)=>({
         partyName: _partyName,
         totalVotesPolledInState: sumBy(party, 'totalVotesPolledInState', Number),
@@ -50,7 +49,8 @@ export class PartyComponent implements OnInit {
           }
         },
         series:[{
-          data:[{name: 'Total', y: partydata.totalVotesPolledInState},{name: selectedParty, y: partydata.totalVotesPolledInStateForParty}]
+          name: 'Votes polled in contested states',
+          data:[{name: 'Others', y: partydata.totalVotesPolledInState},{name: selectedParty, y: partydata.totalVotesPolledInStateForParty}]
         }]
       };
 
