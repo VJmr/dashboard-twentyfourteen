@@ -178,6 +178,10 @@ export const Parties=[
 	{
     "partyName": "United Democratic Party",
     "color": "#ff0000"
+  },
+	{
+    "partyName": "YSR Congress Party + Unrecognised",
+    "color": "#0000FF"
 	},
 	{
     "partyName": "Unrecognised",
